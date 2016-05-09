@@ -1,0 +1,2269 @@
+AAB	Aberdeen International I
+AAR.UN	Pure Industrial Real Est
+AAV	Advantage Oil & Gas Ltd.
+ABK.A	Allbanc Split Corp Class
+ABK.PR.C	Allbanc Split Corp Pref
+ABT	Absolute Software Corp.
+ABX	Barrick Gold Corporation
+AC	Air Canada
+ACD	Accord Financial
+ACO.X	Atco Ltd. Cl.I Nv
+ACO.Y	Atco Ltd Cl II
+ACQ	Autocanada Inc
+ACR.UN	Agellan Commercial REIT
+ACZ.UN	American Core Sectors Di
+AD	Alaris Royalty Corp.
+ADC.UN	Canadian Advantaged Conv
+ADN	Acadian Timber Corp
+ADV	Alderon Iron Ore Corp
+ADW.A	Andrew Peller Limited C
+ADW.B	Andrew Peller Limited C
+AEF.A	Acasta Enterprises Inc C
+AEF.WT	Acasta Enterprises Inc W
+AEI	Arsenal Energy Inc.
+AEM	Agnico Eagle Mines Limit
+AEU.UN	Activenergy Income Fund
+AEZ	Aeterna Zentaris Inc.
+AF	Alarmforce J
+AFN	Ag Growth International
+AFN.DB.A	Ag Growth Intl Inc 5.25
+AFN.DB.B	Ag Growth International
+AFN.DB.C	Ag Growth Intl Inc 5.00 Pct Debs
+AGF.B	Agf Management Ltd. Cl.
+AGI	Alamos Gold Inc.
+AGI.WT	Alamos Gold Inc Warrants
+AGI.WT.A	Alamos Gold Inc Warrants A
+AGT	Agt Food and Ingredients
+AGU	Agrium Inc
+AHF	Aston Hill Financial Inc
+AHF.DB.A	0Nbaston Hill Financial Inc 6.5 Pct Debs
+AHY.UN	Advantaged CDN High Yiel
+AI	Atrium Mortgage Investme
+AI.DB	Atrium Mortgage Inv Corp
+AI.DB.A	Atrium Mortgage Inv Corp
+AI.DB.B	Atrium Mortgage Inv Corp
+AIF	Altus Group Limited
+AIF.DB.A	Altus Group Ltd 6.75 Pct
+AIM	Aimia Inc
+AIM.PR.A	Aimia Inc Pref Series 1
+AIM.PR.B	Aimia Inc Pref Series 2
+AIM.PR.C	Aimia Inc Pref Series 3
+AJX	Agjunction Inc
+AKG	Asanko Gold Inc
+AKT.A	Akita Drilling Ltd. Cl.
+AKT.B	Akita Cl B
+ALA	Altagas Ltd.
+ALA.PR.A	Altagas Ltd. Pref A
+ALA.PR.B	Altagas Ltd Pref Series B
+ALA.PR.E	Altagas Ltd Pref Series
+ALA.PR.G	Altagas Ltd Pref G
+ALA.PR.I	Altagas Ltd Pref Series I
+ALA.PR.U	Altagas Ltd Pref Series
+ALB	Allbanc Split Banc Corp
+ALB.PR.C	Allbanc Split Corp II Pref Ser 2
+ALC	Algoma Central
+ALC.DB	Algoma Central Corp 6 PC
+ALS	Altius Minerals Corporat
+AMI	Aurico Metals Inc
+AMM	Almaden Minerals Ltd.
+ANX	Anaconda Mining Inc.
+AOG.UN	Aston Hill Adv Oil and G
+AOI	Africa Oil Corp
+AP.UN	Allied Properties Real E
+APR.UN	Automotive Properties Re
+APS	Aptose Biosciences Inc
+APY	Anglo Pacific Group Plc
+AQA	Aquila Resources Inc.
+AQN	Algonquin Power and Util
+AQN.IR	Algonquin Power Util 5 Pct Debs Ins Rcpt
+AQN.PR.A	Algonquin Power and Util
+AQN.PR.D	Algonquin Power and Util
+AQX.A	Alignvest Acquisition Co
+AQX.WT	Alignvest Acquisition Co
+AR	Argonaut Gold Inc.
+ARE	Aecon Group Inc
+ARE.DB.B	Aecon Group Inc 5.50 Pct
+ARG	Amerigo Resources Ltd.
+ARL	Africo Resources Ltd.
+ARX	Arc Resources Ltd.
+ARZ	Aralez Pharmaceuticals Inc
+ASP	Acerus Pharmaceuticals C
+ASR	Alacer Gold Corp
+ATA	Ats Automation
+ATD.A	Alimentation Couche-Tard
+ATD.B	Alimentation Couche-Tard
+ATH	Athabasca Oil Corp
+ATL	Atlatsa Resources Corpor
+ATP	Atlantic Power Corp.
+ATP.DB.A	Atlantic Power Corp. 6.2
+ATP.DB.B	Atlantic Power Corp 5.60
+ATP.DB.D	Atlantic Power Corp 6.00
+ATP.DB.U	Atlantic Power Corp 5.75
+AUE	Aureus Mining Inc
+AUI.UN	Australian Banc Income F
+AUM	Golden Minerals Company
+AUP	Aurinia Pharmaceuticals
+AV.UN	Aston Hill Adv Vip Incom
+AVK	Avnel Gold Mining Ltd.
+AVL	Avalon Rare Metals Inc.
+AVO	Avigilon Corporation
+AVP	Avcorp Industries Inc.
+AW.UN	A&W Revenue Royalties In
+AX.DB.F	Artis REIT 6.00 Conv Deb
+AX.DB.U	Artis REIT 5.75 Pct Debe
+AX.PR.A	Artis REIT Pref Series A
+AX.PR.E	Artis REIT Pref Ser E
+AX.PR.G	Artis REIT Pref Series G
+AX.PR.U	Artis REIT Pref Series C
+AX.UN	Artis Real Estate Invest
+AXL	Anderson Energy Inc.
+AXL.DB.B	Anderson Energy Inc 7.25
+AXR	Alexco Resource Corp.
+AXX	Axia Netmedia J
+AXY	Alterra Power Corp
+AYA	Amaya Inc
+AYM	Atalaya Mining Plc
+AZ	Az Mining Inc
+AZP.PR.A	Atlantic Power Pref Equi
+AZP.PR.B	Atlantic Power Pref Equi
+AZP.PR.C	Atlantic Power Pref Equi
+AZZ	Azarga Uranium Corp
+BAA	Banro Corp.
+BAD	Badger Daylighting Ltd.
+BAM.A	Brookfield Asset Managem
+BAM.PF.A	Brookfield Asset Mgmt In
+BAM.PF.B	Brookfield Asset Mgmt In
+BAM.PF.C	Brookfield Asset Mgmt In
+BAM.PF.D	Brookfield Asset Mgmt In
+BAM.PF.E	Brookfield Asset Mgmt Pr
+BAM.PF.F	Brookfield Asset Mgmt In
+BAM.PF.G	Brookfield Asset Mgmt In
+BAM.PF.H	Brookfield Asset Mgt Inc Pref Ser 44
+BAM.PR.B	Brookfield Asset Mgmt In
+BAM.PR.C	Brookfield Asset Mgmt In
+BAM.PR.E	Brookfield Asset Mgmt In
+BAM.PR.G	Brookfield Asset Mgmt In
+BAM.PR.K	Brookfield Asset Mgmt In
+BAM.PR.M	Brookfield Asset Mgmt In
+BAM.PR.N	Brookfield Asset Mgmt Pr
+BAM.PR.R	Brookfield Asset Mgmt Pr
+BAM.PR.T	Brookfield Asset Mgmt Pr
+BAM.PR.X	Brookfield Am Pref Ser 2
+BAM.PR.Z	Brookfield Asset Mgmt In
+BAN	Bannerman Resources Limi
+BAR	Balmoral Resources Ltd
+BB	Blackberry Limited
+BB.DB.U	Blackberry Limited 6 Pct
+BBD.A	Bombardier Inc. Cl. A
+BBD.B	Bombardier Inc. Cl. B
+BBD.PR.B	Bombardier 2 Pr
+BBD.PR.C	Bombardier Inc. Preferre
+BBD.PR.D	Bombardier Inc. Preferre
+BBL.A	Brampton Brick Ltd. Cl.
+BBO	Big Bank Big Oil Split C
+BBO.PR.A	Big Bank Big Oil Split C
+BCB	Cott Corp
+BCE	BCE Inc.
+BCE.PR.A	BCE First Pr Shares Seri
+BCE.PR.B	BCE Inc. First Pr Shares
+BCE.PR.C	BCE Inc Pr Shares Series
+BCE.PR.D	BCE Inc. Preferred Share
+BCE.PR.E	BCE 1St Pref Shares Seri
+BCE.PR.F	BCE 1St Pref Shares Seri
+BCE.PR.G	BCE 1St Pref Shares Seri
+BCE.PR.H	BCE 1St Pref Shares Seri
+BCE.PR.I	BCE 1St Pref Shares Seri
+BCE.PR.J	BCE Inc Preferred Sh Ser
+BCE.PR.K	BCE Inc Pref Series AK
+BCE.PR.M	BCE Inc Preferred Shares
+BCE.PR.N	BCE Inc Preferred Shares Series An
+BCE.PR.O	BCE Inc Preferred Shares
+BCE.PR.Q	BCE Inc Preferred Shares
+BCE.PR.R	BCE Inc Ser R
+BCE.PR.S	BCE Inc Ser S
+BCE.PR.T	BCE Inc. First Preferred
+BCE.PR.Y	BCE Inc Ser Y Pr
+BCE.PR.Z	BCE Inc Series Z
+BCI	New Look Eyewear Inc
+BDI	Black Diamond Group Ltd
+BDT	Bird Construction Inc.
+BEI.UN	Boardwalk Real Estate In
+BEK.B	Becker Milk Company Ltd.
+BEP.PR.E	Brookfield Renewable Energy Pref Ser 5
+BEP.PR.G	Brookfield Renewable Energy Pref Ser 7
+BEP.UN	Brookfield Renewable Ene
+BGI.UN	Brookfield Glbl Infras S
+BHY.UN	Brookfield High Yld Stra
+BIG.D	Big 8 Split Inc Class D
+BIG.PR.D	Big 8 Split Inc Pref Cla
+BIN	Progressive Waste Soluti
+BIP.PR.A	Brookfield Infra Partner
+BIP.PR.B	Brookfield Infra Partners LP Pref Ser 3
+BIP.UN	Brookfield Infra Partner
+BIR	Birchcliff Energy Ltd.
+BIR.PR.A	Birchcliff Energy Ltd Pr
+BIR.PR.C	Birchcliff Energy Ltd Pr
+BK	Canadian Banc Corp
+BK.PR.A	Canadian Banc Corp Pref
+BKI	Black Iron Inc
+BKL	Powershares Sr Loan CAD
+BKX	Bnk Petroleum Inc.
+BLB.UN	Bloom Select Income Fund
+BLD	Ballard Power
+BLU	Bellus Health Inc.
+BLX	Boralex Inc.
+BLX.DB.A	Boralex Inc 4.5 Pct Debs
+BMO	Bank of Montreal
+BMO.PR.K	BMO Non-Cumulative Cl B
+BMO.PR.L	BMO Non-Cumulative Cl B
+BMO.PR.M	BMO Cl B Pref Shares Se
+BMO.PR.Q	Bank of Montreal B Pref
+BMO.PR.R	BMO Cl B Pref Shares Ser
+BMO.PR.S	BMO Cl B Pref Shares Ser
+BMO.PR.T	BMO Non Cum Cl B Prf Sha
+BMO.PR.W	BMO Cl B Pref Shares Ser
+BMO.PR.Y	Bank of Montreal Pref Se
+BMO.PR.Z	Bank of Montreal Pref Se
+BND	Purpose Tactical Inv Grade Bond Fund
+BNE	Bonterra Energy Corp
+BNG	Bengal Energy Ltd.
+BNK	Bankers Petroleum Ltd.
+BNP	Bonavista Energy Corpora
+BNS	Bank of Nova Scotia
+BNS.PR.A	Bns Preferred Shares Ser
+BNS.PR.B	Bns Preferred Shares Ser
+BNS.PR.C	Bns Preferred Series 23
+BNS.PR.D	Bns Preferred Shares Ser
+BNS.PR.E	Bns Preferred Shares Series 34
+BNS.PR.F	Bns Preferred Shares Series 33
+BNS.PR.G	Bns Preferred Shares Series 36
+BNS.PR.L	Bns Non-Cum Prf Shrs Se
+BNS.PR.M	Bank of Nova Scotia Non-
+BNS.PR.N	Bns Pref Shares Series
+BNS.PR.O	Bns Pref Shares Series
+BNS.PR.P	Bank of Nova Scotia Non-
+BNS.PR.Q	Bns Pref Shares  Series
+BNS.PR.R	Bns Non Cum Pref Series
+BNS.PR.Y	Bank of Nova Scotia 5 Yr
+BNS.PR.Z	Bns Preferred Series 32
+BOS	Airboss America J
+BOX.UN	Brookfield Canada Office
+BOY	Boyuan Construction Grou
+BOY.DB.A	Boyuan Constr Grp Inc 10
+BPF.UN	Boston Pizza Royalties I
+BPO.PR.A	Brookfield Office Proper
+BPO.PR.C	Brookfield Office Properties Pref Ser CC
+BPO.PR.H	Brookfield Office Proper
+BPO.PR.J	Brookfield Office Proper
+BPO.PR.K	Brookfield Office Proper
+BPO.PR.N	Brookfield Office Proper
+BPO.PR.P	Brookfield Office Proper
+BPO.PR.R	Brookfield Office Proper
+BPO.PR.T	Brookfield Office Proper
+BPO.PR.U	Brookfield Office Proper
+BPO.PR.W	Brookfield Office Proper
+BPO.PR.X	Brookfield Office Proper
+BPO.PR.Y	Brookfield Office Proper
+BPS.PR.A	Brookfield Property Spli
+BPS.PR.B	Brookfield Property Spli
+BPS.PR.C	Brookfield Property Spli
+BPS.PR.U	Brookfield Property Spli
+BPY.UN	Brookfield Property Part
+BR	Big Rock Brewery Inc.
+BRB	Brick Brewing J
+BRE	Brookfield Real Estate S
+BRF.PR.A	Brookfield Renewable  Pr
+BRF.PR.B	Brookfield Renewable Pre
+BRF.PR.C	Brookfield Renewable Pow
+BRF.PR.E	Brookfield Renewable Pow
+BRF.PR.F	Brookfield Renewable Pow
+BRY	Bri Chem Corp
+BSC	Bns Split Corp.  II
+BSC.PR.C	Bns Split Corp II Pref B Series 2
+BSD.PR.A	Brookfield Soundvest Spl
+BSD.UN	Brookfield Soundvest Spl
+BSE.UN	Brookfield Soundvest Equ
+BSO.UN	Brookfield Select Opport
+BSX	Belo Sun Mining Corp
+BTB.DB.D	Btb REIT 7.25 Pct Debs
+BTB.DB.E	Btb REIT 6.90 Pct Debs
+BTB.DB.F	Btb REIT 7.15 Pct Debs
+BTB.UN	Btb REIT Units
+BTE	Baytex Energy Corp.
+BTO	B2Gold Corp.
+BU	Burcon Nutrascience Corp
+BUA.UN	Bloom US Income and Grow
+BUI	Buhler Ind
+BX	Biox Corporation
+BXE	Bellatrix Exploration Lt
+BXF	First Asset 1 To 5 Yr La
+BXO	Boulder Energy Ltd
+BYD.DB.A	Boyd Group Income Fund 5
+BYD.UN	Boyd Group Income Fund
+BYL	Baylin Technologies Inc
+CAE	Cae Inc
+CAG.UN	Coxe Global Agribusiness
+CAH.UN	Canadian High Yield Focu
+CAL	Caledonia Mining Corpora
+CAM	Canam Group Inc.
+CAO	Cara Operations Limited
+CAR.UN	CDN Apartment Un
+CAS	Cascades Inc
+CAZ	Caza Oil
+CBB	First Asset Core Balance
+CBD	Ishares Balanced Income
+CBD.A	Ishares Balanced Income
+CBF	Canbanc 8 Income Corp
+CBH	Ishares 1-10 Yr Laddered
+CBL	Callidus Capital Corp
+CBN	Ishares Balanced Growth
+CBN.A	Ishares Balanced Growth
+CBO	Ishares 1-5Yr Laddered C
+CBO.A	Ishares 1-5Yr Laddered C
+CBQ	Ishares BRIC ETF
+CBQ.A	Ishares BRIC ETF AC
+CCA	Cogeco Cable Inc. Sv
+CCI.UN	Canadian Convertibles Pl
+CCL.A	Ccl Inc. Cl A
+CCL.B	Ccl Industries Inc. Cl.
+CCM	Canarc Res J
+CCO	Cameco Corp
+CCS.PR.C	Co-Operators Gen Ins Cl
+CCV	Counterpath Corporation
+CCX	Canadian Crude Oil Index
+CCZ	Criticalcontrol Solution
+CDD.UN	Core Canadian Dividend T
+CDH	Corridor Resources Inc.
+CDM.WT	Coeur Mining Inc Warrant
+CDU	Cardero Resource Corp.
+CDZ	Ishares SP TSX CDN Divid
+CDZ.A	Ishares SP TSX CDN Divid
+CED	First Asset Core CDN Equ
+CEE	Centamin Plc
+CEF.A	Central Fund of Canada L
+CEF.U	Central Fund of Canada L
+CES	First Asset Core US Equi
+CES.B	First Asset Core US Equi
+CET	Cathedral Energy Service
+CEU	Canadian Energy Svcs and
+CEW	Ishares Equal Weight Ban
+CEW.A	Ishares Equal Weight Ban
+CF	Canaccord Genuity Group
+CF.PR.A	Canaccord Genuity Group
+CF.PR.C	Canaccord Genuity Group
+CFF	Conifex Timber Inc
+CFP	Canfor Corp
+CFW	Calfrac Well Services Lt
+CFX	Canfor Pulp Products Inc
+CG	Centerra Gold Inc.
+CGG	China Gold Int Resources
+CGI	CDN General Inv
+CGI.PR.C	Canadian General Inv. Lt
+CGI.PR.D	Canadian General Inv Ltd
+CGL	Ishares Gold Bullion ETF
+CGL.C	Ishares Gold Bullion ETF
+CGO	Cogeco Inc. Sv
+CGR	Ishares Global Real Esta
+CGR.A	Ishares Global Real Esta
+CGT	Columbus Gold Corp
+CGX	Cineplex Inc.
+CGX.DB.A	Cineplex Inc 4.50 Pct De
+CGY	Calian Group Limited
+CHB	Ishares US HY Fixed Inco
+CHB.A	Ishares US HY Fixed Inco
+CHE.DB	Chemtrade Logistics Inco
+CHE.DB.A	Chemtrade Logistics If 5
+CHE.DB.B	Chemtrade Logistics If 5
+CHE.UN	Chemtrade Logistics Inco
+CHH	Centric Health Corporati
+CHH.NT	Centric Health Corp 6.75
+CHP.UN	Choice Properties REIT
+CHR.A	Chorus Aviation Inc Cl A
+CHR.B	Chorus Aviation Inc Cl B
+CHW	Chesswood Group Limited
+CHW.DB	Chesswood Group Limited
+CIA	Champion Iron Limited
+CIC	Canbanc Income Corp
+CIE	Ishares Intl Fundamental
+CIE.A	Ishares Intl Fundamental
+CIF	Ishares Global Infrastru
+CIF.A	Ishares Global Infrastru
+CIG	Colliers International Group Inc.
+CIQ.UN	Canadian High Income Equ
+CIU.PR.A	Cu Inc. Preferred Share
+CIU.PR.C	Cu Inc Preferred Series
+CIX	Ci Financial Corp.
+CJ	Cardinal Energy Ltd
+CJ.DB	Cardinal Energy Ltd 5.50 Pct Debs
+CJP	Ishares Japan Fund Idx E
+CJP.A	Ishares Japan Fund Idx E
+CJR.B	Corus Entertainment Inc.
+CJT	Cargojet Inc.
+CJT.A	Cargojet Inc. Variable V
+CJT.DB.A	Cargojet Inc 6.5 Pct Deb
+CJT.DB.B	Cargojet Inc 5.5 Pct Deb
+CKE	Chinook Energy Inc.
+CKI	Clarke Inc
+CLC	Connacher Oil and Gas Li
+CLF	Ishares 1-5 Yr Ladder Go
+CLF.A	Ishares 1-5 Yr Ladder Go
+CLG	Ishares 1-10 Yr Ladder G
+CLG.A	Ishares 1-10Yr Ladder Go
+CLR	Clearwater Seafoods Inco
+CLS	Celestica Inc. Sv
+CLU	Ishares US Fundamental I
+CLU.A	Ishares US Fundamental I
+CLU.B	Ishares US Fundamental I
+CLU.C	Ishares US Fundamental I
+CM	Canadian Imperial Bank O
+CM.PR.O	Cibc Pref Ser 39
+CM.PR.P	Cibc Pref Series 41
+CM.PR.Q	Cibc Pref Series 43
+CMG	Computer Modelling Group
+CMH	Carmanah Technologies Co
+CMR	Ishares Premium Money Ma
+CMZ.UN	Compass Income Fund
+CNE	Canacol Energy Ltd
+CNL	Continental Gold Ltd
+CNQ	CDN Natural Res
+CNR	Canadian National Railwa
+CNT	Century Global Commodities Corp
+CNU	Cnooc Limited
+COM	Cardiome Pharma Corp
+COP	Coro Mining Corp.
+COW	Ishares Global Agri Inde
+COW.A	Ishares Global Agri Inde
+COX.UN	Coxe Commodity Strategy
+CP	Canadian Pacific Railway
+CPD	Ishares SP TSX CDN Pref
+CPD.A	Ishares SP TSX CDN Pref
+CPF.UN	CDN 50 Adv Pref Sh Fd
+CPG	Crescent Point Energy Co
+CPH	Cipher Pharmaceuticals I
+CPI	Condor Petroleum Inc
+CPW.DB	Capstone Power Corp 6.75
+CPX	Capital Power Corporatio
+CPX.PR.A	Capital Power Corporatio
+CPX.PR.C	Capital Power Corp Pref
+CPX.PR.E	Capital Power Corporatio
+CQE	Cequence Energy Ltd.
+CR	Crew Energy Inc
+CRH	CRH Medical Corporation
+CRJ	Claude Res
+CRN	Crown Capital Partners I
+CRP	Ceres Global Ag Corp.
+CRQ	Ishares  Canadian Fundam
+CRQ.A	Ishares CAD Fundamental
+CRR.DB.D	Crombie REIT 5 Pct Debs
+CRR.DB.E	Crombie REIT 5.25 Pct De
+CRR.UN	Crombie Real Estate Inve
+CRT.UN	Ct Real Estate Investmen
+CS	Capstone Mining Corp.
+CSD	Ishares Adv Short Dur Hi
+CSD.A	Ishares Adv Shrt Dur Hi
+CSE	Capstone Infrastructure
+CSE.DB.A	Capstone Infrastructure
+CSE.PR.A	Capstone Infrastructure
+CSH.DB.B	Chartwell Retirement Res
+CSH.UN	Chartwell Retirement Res
+CSU	Constellation Software I
+CSU.DB	Constellation Software I
+CSW.A	Corby Spirit and Wine Lt
+CSW.B	Corby Spirit and Wine Lt
+CSY	Can 60 Income Corp
+CTC	Canadian Tire Corporatio
+CTC.A	Canadian Tire Corporatio
+CTF.UN	Citadel Income Fund
+CTH	Cynapsus Therapeutics In
+CTU.A	Le Chateau Inc. Cl A.
+CTX	Crescita Therapeutics Inc
+CTY	Calian Technologies Ltd.
+CU	Canadian Utilities Ltd.
+CU.PR.C	Canadian Utilities Limit
+CU.PR.D	Canadian Utilities Ltd P
+CU.PR.E	Canadian Utilities Ltd P
+CU.PR.F	Canadian Utilities Ltd P
+CU.PR.G	Canadian Utilities Ltd P
+CU.PR.H	Canadian Utilities Ltd P
+CU.PR.I	Canadian Utilities Ltd Pref Ser Ff
+CU.X	CDN Util Cl B
+CUD	Ishares SP US Div Grower
+CUD.A	Ishares SP US Div Grower
+CUF.UN	Cominar R E Un
+CUM	Copper Mountain Mining C
+CUP.U	Caribbean Util US
+CUR	Diagnocure Inc J
+CUS	Canexus Corporation
+CUS.DB.B	Canexus Corp 5.75 Pct Se
+CUS.DB.C	Canexus Corp 6.00 Pct Co
+CUS.DB.D	Canexus Corp 6.5 Pct Deb
+CVD	Ishares Convertible Bond
+CVD.A	Ishares Convertible Bond
+CVE	Cenovus Energy Inc.
+CVG	Clairvest Group
+CVL	Cervus Equipment Corpora
+CVL.DB	Cervus Equipment Corp 6
+CWB	CDN Western Bank
+CWB.PR.B	Canadian Western Bank Pr
+CWB.PR.C	Canadian Western Bank Pref Series 7
+CWF	CDN World Fund
+CWI	Crosswinds Holdings Inc
+CWL	Caldwell Partners Intern
+CWO	Ishares Emg Mkts Fundame
+CWO.A	Ishares Emg Mkts Fundame
+CWW	Ishares SP Global Water
+CWW.A	Ishares SP Global Water
+CWX	Canwel Building Material
+CWX.DB	Canwel Building Material
+CXF	First Asset CDN Convert
+CXI	Currency Exchange Intern
+CXN	Chalice Gold Mines Limit
+CXR	Concordia Healthcare Cor
+CYB	Cymbria Corporation Cl A
+CYH	Ishares Global Monthly D
+CYH.A	Ishares Global Monthly D
+CYT	Catalyst Paper Corporati
+CZN	CDN Zinc Corp J
+CZQ	Continental Precious Min
+D.UN	Dream Office REIT
+DA.A	Discovery Air Inc.
+DA.DB.A	Discovery Air Inc 8.375
+DAQ.A	Dundee Acquisition Ltd C
+DAQ.WT	Dundee Acquisition Ltd W
+DBO	Dbox Technologies Inc
+DC.A	Dundee Corp. Cl.A Sv
+DC.PR.B	Dundee Corp First Pref S
+DC.PR.D	Dundee Corp Pref Series
+DC.PR.E	Dundee Corp First Pref Shares Series 5
+DC.WT	Dundee Corp Class A Wts
+DCD.UN	First Asset Diversified
+DCF	Difference Capital Finan
+DCF.DB	Difference Cap Financial
+DCI	Directcash Payments Inc.
+DDC	Dominion Diamond Corpora
+DEE	Delphi Energy Corp.
+DEN	Dundee Energy Limited
+DF	Dividend 15 Split Corp.
+DF.PR.A	Dividend 15 Split Corp.
+DFN	Dividend 15 Split Corp
+DFN.PR.A	Dividend 15 Split Corp.
+DGC	Detour Gold Corporation
+DGI	Data Group Ltd
+DGI.DB.A	Data Group Ltd 6 Pct Deb
+DGS	Dividend Growth Split Co
+DGS.PR.A	Dividend Growth Split Co
+DH	Dh Corporation
+DH.DB	Dh Corporation 6.00 Pct
+DH.DB.A	Dh Corporation 5.0 Pct D
+DHX.A	Dhx Media Ltd Class A
+DHX.B	Dhx Media Ltd Class B
+DII.A	Dorel Industries Inc. C
+DII.B	Dorel Industries Inc. C
+DII.DB.U	Dorel Industries Inc 5.5
+DIN.DB	Dir Industrial Propertie
+DIR.DB	Dream Industrial REIT 5.
+DIR.UN	Dream Industrial REIT
+DIV	Diversified Royalty Corp
+DLR	Horizons US Dollar Curre
+DLR.U	Horizons US Dollar Curre
+DML	Denison Mines Corp.
+DMM	Dynasty Metals
+DNA	Dalradian Resources Inc.
+DNA.WT.A	Dalradian Resources Inc
+DNG	Dynacor Gold Mines Inc
+DNT	Candente Copper Corp
+DOL	Dollarama Inc
+DOM.UN	Dominion Citrus Income F
+DOO	Brp Inc
+DPM	Dundee Precious Metals I
+DR	Medical Facilities Corp
+DR.DB.A	Medical Facilities Corp
+DRA.UN	Dream Hard Asset Alterna
+DRG.DB	Dream Global REIT 5.5 PC
+DRG.UN	Dream Global REIT
+DRM	Dream Unlimited Corp
+DRM.PR.A	Dream Unlimited Corp Pre
+DRT	Dirtt Environmental Solu
+DRX	Adf Group Inc. Sv
+DS	Dividend Select 15 Corp.
+DSG	Descartes Sys
+DSL.UN	Doubleline Income Soluti
+DW	Datawind Inc
+DWI	Dragonwave Inc.
+DWI.WT	Dragonwave Inc Wts
+DXI	Dxi Energy Inc
+DXM	F A Morningstar Cda Div
+DXM.A	F A Morningstar Cda Div
+E	Enterprise Group Inc
+EB.UN	F A Hamilton Capital EUR
+EBC.UN	Europe Blue Chip Div and
+EBF.UN	European Strategic Balan
+ECA	Encana Corp.
+ECF.UN	East Coast Invest Grade
+ECI	Enercare Inc.
+ECI.DB	Enercare Inc. 6.25 Pct D
+ECI.R	Enercare Inc Sub Receipts
+ECO	Ecosynthetix Inc
+EDR	Endeavour Silver Corp.
+EDT	Spectral Medical Inc
+EDV	Endeavour Mining Corp
+EFH	Echelon Financial Holdin
+EFL	Electrovaya Inc.
+EFN	Element Financial Corp
+EFN.DB	Element Financial Corp 5
+EFN.DB.A	Element Financial Corp 4
+EFN.PR.A	Element Financial Corp P
+EFN.PR.C	Element Financial Corp P
+EFN.PR.E	Element Financial Corp P
+EFN.PR.G	Element Financial Corp P
+EFR	Energy Fuels Inc.
+EFR.DB	Energy Fuels Inc Debs
+EFX	Enerflex Ltd
+EGI.UN	Excel India Growth and I
+EGL	Eagle Energy Inc.
+EGZ	Energizer Resources Inc
+EIF	Exchange Income Corporat
+EIF.DB.D	Exchange Income Corp 6.2
+EIF.DB.E	Exchange Income Corp 5.5
+EIF.DB.F	Exchange Income Corp 5.3
+EIF.DB.G	Exchange Income Corp 6.0
+EIT.UN	Canoe Eit Income Fund Un
+ELD	Eldorado Gold
+ELF	E-L Financial
+ELF.PR.F	E-L Financial Corp. Ltd.
+ELF.PR.G	E- L Financial Corp. Lim
+ELF.PR.H	E - L Financial Corp Ltd
+ELR	Eastern Platinum Limited
+ELV	Powershares SP Emg Mkts
+EMA	Emera Incorporated
+EMA.IR	Emera Incorporated Instalment Receipts
+EMA.PR.A	Emera Inc Series A Pref
+EMA.PR.B	Emera Inc Pref Sh Series
+EMA.PR.C	Emera Inc Pref Sh Series
+EMA.PR.E	Emera Inc Pref Series E
+EMA.PR.F	Emera Inc Series F Pref
+EML.PR.A	The Empire Life Insurance Co Pref A
+EMP.A	Empire Company Ltd. Cl.
+ENB	Enbridge Inc
+ENB.PF.A	Enbridge Inc Pref Series
+ENB.PF.C	Enbridge Inc Pref Series
+ENB.PF.E	Enbridge Inc Pref Series
+ENB.PF.G	Enbridge Inc Pref Series
+ENB.PF.U	Enbridge Inc Preferred S
+ENB.PF.V	Enbridge Inc Pref Series
+ENB.PR.A	Enbridge Pr
+ENB.PR.B	Enbridge Inc Cum Redeem
+ENB.PR.D	Enbridge Inc Pref Ser D
+ENB.PR.F	Enbridge Inc Pref Ser F
+ENB.PR.H	Enbridge Inc Preferred S
+ENB.PR.J	Enbridge Inc Pref Ser 7
+ENB.PR.N	Enbridge Inc Pref Ser N
+ENB.PR.P	Enbridge Inc Pref Ser P
+ENB.PR.T	Enbridge Inc Pref Ser R
+ENB.PR.U	Enbridge Inc Pref Sh Ser
+ENB.PR.V	Enbridge Inc Pref Ser 1
+ENB.PR.Y	Enbridge Inc Cum Red Pre
+ENF	Enbridge Income Fund Hol
+ENI.UN	Energy Income Fund
+ENL	Endo International Plc
+ENT	Entrec Corporation
+ENT.DB	Entrec Corporation 7 Pct
+EOM	Eco Oro Minerals Corp
+EPI	Essa Pharma Inc
+EPS	Epsilon Energy Ltd.
+EPS.DB	Epsilon Energy Ltd 7.75
+EQB	Equitable Group Inc
+EQB.PR.C	Equitable Group Inc Pref
+EQI	Equity Financial Holding
+ER	Eastmain Res J
+ERD	Erdene Resource Developm
+ERF	Enerplus Corporation
+ERM	Eclipse Residential Mort
+ERX	Era Resources Inc
+ESI	Ensign Energy Services I
+ESL	Enghouse Systems Ltd.
+ESN	Essential Energy Service
+ESP	Espial Group Inc.
+ET	Evertz Technologies Limi
+ETG	Entree Gold Inc.
+ETP	First Trust Global Risk
+ETP.A	First Trust Glb Risk Man
+ETX	Etrion Corporation
+EUR	First Trust Alphadex EUR
+EUR.A	First Trust Alphadex EUR
+EVT	Economic Investment
+EXE	Extendicare Inc
+EXE.DB.B	Extendicare Inc 6 Pct De
+EXF	Exfo Inc
+EXN	Excellon Resources Inc.
+FAI	Fa Active Utility and In
+FAO	First Asset Active Credi
+FAO.U	First Asset Active Credi
+FAP	Aberdeen Asia-Pacific In
+FAR	Foraco International Sa
+FBS.B	5Banc Split Inc. Capital
+FBS.PR.C	5Banc Split Class C Pref
+FC	Firm Capital Mortgage In
+FC.DB.A	Firm Capital Mortgage 5.
+FC.DB.B	Firm Capital Mtg Inv Cor
+FC.DB.C	Firm Capital Mortgage In
+FC.DB.D	Firm Capital Mortgage In
+FC.DB.E	Firm Cap Mtg Invest Corp
+FC.DB.F	Firm Capital Mortgage 5.50 Pct Debs
+FCO	Formation Metals Inc.
+FCR	First Capital Realty Inc
+FCR.DB.E	First Capital Realty Inc
+FCR.DB.F	First Capital Realty 5.2
+FCR.DB.I	First Capital Realty Inc
+FCR.DB.J	First Capital Realty Inc
+FCS.PR.C	Faircourt Split Trust 6.
+FCS.UN	Faircourt Split Trust
+FCU	Fission Uranium Corp
+FDE	First Trust Alphadex Emg
+FDS.UN	First Trust Global Divid
+FDV	First Asset Active CDN D
+FDV.A	First Asset Active CDN Dividend ETF AC
+FDY	First Trust Alphadex CDN
+FDY.A	First Trust Alphadex CDN
+FFH	Fairfax Financial Holdin
+FFH.PR.C	Fairfax Fncl Holdings Lt
+FFH.PR.D	Fairfax Fncl Holdings Lt
+FFH.PR.E	Fairfax Financial Hldngs
+FFH.PR.F	Fairfax Financial Holdin
+FFH.PR.G	Fairfax Financial Hldngs
+FFH.PR.H	Fairfax Fncl Holdings Ltd Pref Ser H
+FFH.PR.I	Fairfax Financial Holdin
+FFH.PR.J	Fairfax Fncl Holdings Ltd Pref Ser J
+FFH.PR.K	Fairfax Financial Holdin
+FFH.PR.M	Fairfax Financial Holdin
+FFH.U	Fairfax Financial Holdin
+FFI.UN	Flaherty & Crumrine Fixe
+FFN	North American Financial
+FFN.PR.A	North American Fin 15 SP
+FGB	Fa Short Term Govt Bond Index Class ETF
+FGL	First Asset Global Momentum Et
+FGM	Fa Global Momentum CAD Hedged Class ETF
+FGU	First Asset Global Value Class ETF
+FGV	Fa Global Value CAD Hedged Class ETF
+FGX	Faircourt Gold Income Co
+FHB	First Asset Hamilton Cap
+FHB.A	First Asset Hamilton Cap
+FHC	First Trust Alphadex US
+FHD	First Trust Alphadex US
+FHE	First Trust Alphadex US
+FHF	First Trust Alphadex US
+FHG	First Trust Alphadex US
+FHH	First Trust Alphadex US
+FHQ	First Trust Alphadex US
+FHU	First Trust Alphadex US
+FIC	Can Financials Income Co
+FIE	Ishares CDN Fin Mthly In
+FIE.A	Ishares CDN Fin Mthly In
+FIH.U	Fairfax India Holdings C
+FLI	First Asset US Cda Lifec
+FLI.A	First Asset US Cda Lifec
+FM	First Quantum Minerals L
+FN	First National Financial
+FN.PR.A	First National Financial
+FN.PR.B	First National Financial Corp Pref B
+FNM.UN	First National Mortgage
+FNV	Franco-Nevada Corporatio
+FNV.WT.A	Franco-Nevada Corporatio
+FOR	Fortune Bay Corp
+FP	Fp Newspapers Inc.
+FPX	First Point Minerals Cor
+FR	First Majestic Silver Co
+FRC	Canyon Services Group In
+FRL.UN	Senior Secured Floating
+FRU	Freehold Royalties Ltd.
+FRX	Fennec Pharmaceuticals I
+FSD	First Trust Sh Dur Hi Yld Bnd ETF
+FSD.A	First Trust Sh Dur Hi Yld Bnd E
+FSF	First Asset Global Financial Sector ETF
+FSL	First Trust Senior Loan
+FSL.A	First Trust Senior Loan
+FSV	Firstservice Corporation
+FSY	Forsys Metals Corp.
+FSZ	Fiera Capital Corp
+FT	Fortune Mnrl J
+FTB	First Trust Tactical Bon
+FTG	Firan Technology Group C
+FTN	Financial 15 Split Corp
+FTN.PR.A	Financial 15 Split Corp
+FTP	Fortress Paper Ltd.
+FTP.DB	Fortress Paper Ltd 6.5 P
+FTP.DB.A	Fortress Paper Ltd 7 Pct
+FTS	Fortis Inc
+FTS.PR.E	Fortis Inc. Ser E
+FTS.PR.F	Fortis Inc. Preferred S
+FTS.PR.G	Fortis Inc. First Pref S
+FTS.PR.H	Fortis Inc. Pref Series
+FTS.PR.I	Fortis Inc Pref Series I
+FTS.PR.J	Fortis Inc Pref Series J
+FTS.PR.K	Fortis Inc Pref Series K
+FTS.PR.M	Fortis Inc Pref Series M
+FTT	Finning Intl
+FTU	US Financial 15 Split Co
+FTU.PR.B	US Finl 15 Split 2012 Pr
+FUD	First Trust Alphadex US
+FUD.A	First Trust Alphadex US
+FVI	Fortuna Silver Mines Inc
+FVL	Freegold Ventures Limite
+FXM	F A Morningstar Cda Valu
+FXM.A	F A Morningstar Cda Valu
+G	Goldcorp Inc
+GAF.UN	Global Alpha Worldwide G
+GBF	Globalance Dividend Growers Corp
+GBG.A	Gibraltar Growth Corp Cl A
+GBG.WT	Gibraltar Growth Corp Wts
+GBT	Bmtc Group Inc.
+GBU	Gabriel Res J
+GC	Great Canadian Gaming Co
+GCG	Guardian Capital
+GCG.A	Guardian Capital Group L
+GCL	Colabor Group Inc.
+GCL.DB.A	Colabor Group Inc 5.70 C
+GCM	Gran Colombia Gold Corp.
+GCM.DB.U	Gran Colombia Gold Corp 1.00 Pct Debs
+GCM.DB.V	Gran Colombia Gold Corp 6.00 Pct Debs
+GCM.WT.A	Gran Colombia Gold Corp
+GCS.PR.A	Global Champions Split C
+GDC	Genesis Land J
+GDG.UN	Global Dividend Growers
+GDI	Gdi Integrated Facility
+GDL	Goodfellow Inc
+GDP.UN	Global Dividend Fund
+GDS	Gendis Inc
+GEI	Gibson Energy Inc
+GEN	Genenews Limited
+GEO	Geodrill Limited
+GGA	Goldgroup Mining Inc
+GGD	Gogold Resources Inc
+GGT.UN	Goodman Gold Trust
+GH	Gamehost Inc.
+GHC.UN	Global Healthcare Divide
+GIB.A	CGI Group Inc. Cl.A Sv
+GIF.UN	Global Infrastructure Di
+GII.UN	Global Div Inv Gr. Incom
+GIL	Gildan Activewear Inc.
+GLG	Glg Life Tech Corporatio
+GMM.U	General Motors Company
+GMO	General Moly Inc.
+GMP	Gmp Capital Inc.
+GMP.PR.B	Gmp Capital Inc Series B
+GMP.PR.C	Gmp Capital Inc Series C Preferred
+GMX	Globex Mining Enterprise
+GO	Mogo Finance Technology
+GPR	Great Panther Silver Lim
+GPS	Bsm Technologies Inc
+GQM	Golden Queen Mng J
+GRL	Global Real Estate Div G
+GRT.UN	Granite Real Estate Inve
+GS	Gluskin Sheff   Associat
+GSB.UN	Goldman Sachs US Income
+GSC	Golden Star
+GSY	Easyhome Ltd.
+GTE	Gran Tierra Energy Inc.
+GTX	Gran Tierra Exchangeco I
+GUD	Knight Therapeutics Inc
+GUY	Guyana Goldfields Inc
+GVC	Glacier Media Inc
+GWO	Great-West Lifeco Inc
+GWO.PR.F	Great-West Lifeco Inc.
+GWO.PR.G	Great-West Lifeco Inc. P
+GWO.PR.H	Great-West Lifeco Inc.
+GWO.PR.I	Great-West Lifeco Inc.
+GWO.PR.L	Great-West Lifeco Inc Pr
+GWO.PR.M	Great West Lifeco Pref S
+GWO.PR.N	Great West Lifeco Inc Pr
+GWO.PR.O	Great West Lifeco Pref Series O
+GWO.PR.P	Great West Lifeco Inc 5.
+GWO.PR.Q	Great West Lifeco Pref S
+GWO.PR.R	Great West Lifeco Inc Se
+GWO.PR.S	Great West Lifeco Pref S
+GWR	Gwr Global Water Resourc
+GXE	Gear Energy Ltd
+GXO	Granite Oil Corp
+H	Hydro One Limited
+HAB	Horizons Active Corporat
+HAB.A	Horizons Active Corporat
+HAC	Horizons Seasonal Rotati
+HAC.A	Horizons Seasonal Rotati
+HAD	Horizons Active CDN Bond
+HAF	Horizons Active Global F
+HAJ	Horizons Active Emerging
+HAJ.A	Horizons Active Emrg Mkt
+HAL	Horizons Active CDN Divi
+HAL.A	Horizons Active CDN Divi
+HAU	Horizons Active US Divid
+HAZ	Horizons Active Global D
+HAZ.A	Horizons Active Global D
+HBB	Horizons CDN Select Univ
+HBC	Hudsons Bay Company
+HBD	Horizons Betapro Comex G
+HBF.UN	Brand Leaders Plus Incom
+HBG	Hamilton Capital Global Bank ETF
+HBL.UN	Brand Leaders Income Fun
+HBM	Hudbay Minerals Inc.
+HBM.WT	Hudbay Minerals Inc Wts
+HBP	Helix Biopharm
+HBU	Horizons Betapro Comex G
+HCG	Home Capital Group Inc.
+HCN	Horizons China High Dividend Yield ETF
+HE	Hanwei Energy Services C
+HEA	Horizons Enhd Income US
+HEA.U	Horizons Enhd Income US
+HEA.V	Horizons Enhd Inc US Equ
+HED	Horizons BP SP TSX Energ
+HEE	Horizons Enhanced Income
+HEE.A	Horizons Enhd Income Ene
+HEF	Horizons Enhanced Income
+HEJ	Horizons Enhd Inc Intl E
+HEJ.A	Horizons Enhd Inc Intl E
+HEN.UN	Energy Leaders Income Fd
+HEP	Horizons Enhanced Income
+HEP.A	Horizons Enhd Income Gol
+HER	Heron Resources Limited
+HEU	Horizons Betapro S&P/Tsx
+HEW	Horizons Sp/Tsx 60 Equal
+HEX	Horizons Enhanced Income
+HEX.A	Horizons Enhd Income Equ
+HFD	Horizons BP SP TSX Cap F
+HFP	Horizons Active Flt Rate
+HFP.A	Horizons Active Flt Rate
+HFR	Horizons Active Floating
+HFR.A	Horizons Active Floating
+HFU	Horizons Betapro S&P/Tsx
+HGD	Horizons BP Gold Bear Pl
+HGI.UN	Global Adv Telecom Utili
+HGM	Horizons Managed Global
+HGM.A	Horizons Managed Global Opper E
+HGN	Halogen Software Inc
+HGU	Horizons BP SP TSX Globa
+HGY	Horizons Gold Yield ETF
+HGY.A	Horizons Gold Yield ETF
+HHF	Horizons Morningstar Hdg
+HHL.UN	Healthcare Leaders Incom
+HHY.UN	High Rock CDN High Yield
+HIG.UN	Global Healthcare Inc and Grwth Fd
+HII	Horizons CDN Insider Ind
+HIU	Horizons Betapro SP 500
+HIX	Horizons Betapro S&P/Tsx
+HLC	Holloway Lodging Corpora
+HLC.DB	Holloway Lodging Corp 6.
+HLC.DB.A	Holloway Lodging Corp 7.
+HLF	High Liner
+HMA	Horizons Managed Ma Mome
+HMF	Horizons Auspice Managed
+HMF.A	Horizons Auspice Managed
+HMM.A	Hammond Manufacturing Co
+HMP	Horizons Active CDN Muni
+HMP.A	Horizons Active CDN Muni
+HND	Horizons Betapro Nymex N
+HNL	Horizon North Logistics
+HNU	Horizons Beta Pro Nymex
+HNY	Horizons Natural Gas Yie
+HNY.A	Horizons Natural Gas Yie
+HNZ.A	Hnz Group Inc Cl A
+HOD	Horizon Beta Pro Nymex C
+HOG	Horizons CDN Midstream O
+HOT.UN	American Hotel Income Pr
+HOU	Horizon Betapro Nymex Cr
+HPF.UN	Energy Leaders Plus Inco
+HPR	Horizons Active Preferre
+HPR.A	Horizons Active Preferre
+HPS.A	Hammond Power Solutions
+HQD	Horizons Betapro Nasdaq1
+HQU	Horizons Betapro Nasdaq1
+HR.DB.D	Hr REIT 5.90 Pct Conv De
+HR.DB.E	Hr REIT 4.50 Pct Ser E D
+HR.DB.H	Hr REIT 5.40 Pct Debs
+HR.UN	H&R Real Estate Inv Trus
+HRR.UN	Australian REIT Income F
+HRT	Harte Gold Corp
+HRX	Heroux-Devtek
+HSB.PR.C	HSBC Bank Canada Pr. C
+HSB.PR.D	HSBC Bank Canada Cl.1 Pr
+HSD	Horizons BP Sp500 Bear P
+HSE	Husky Energy Inc.
+HSE.PR.A	Husky Energy Inc Pref Se
+HSE.PR.B	Husky Energy Inc Pref Series 2
+HSE.PR.C	Husky Energy Inc Pref Se
+HSE.PR.E	Husky Energy Inc Pref Se
+HSE.PR.G	Husky Energy Inc Pref Se
+HSL	Horizons Active Float Ra
+HSM	Helius Medical Technologies Inc
+HSM.S	Helius Medical Technologies Inc Reg S
+HSM.WT.S	Helius Medical Technologies Reg S Wts
+HSU	Horizons Betapro S&P 500
+HTA.UN	Tech Achievers Growth An
+HTB	Horizons US 7 To 10 Yr T
+HTB.U	Horizons US 7 To 10 Yr T
+HTD	Horizons Betapro U.S 30
+HTO.UN	Global Water Solutions F
+HUC	Horizons Nymex Crude Oil
+HUF	Horizons Active US Float
+HUF.U	Horizons Active US Float
+HUG	Horizons Comex Gold ETF
+HUL.UN	US Buyback Leaders Fund
+HUN	Horizons Nymex Natural G
+HUS.U	Horizons US Equity Mgd R
+HUS.V	Horizons US Equity Mgd R
+HUT	Horizons CDN Equity Mgd
+HUT.A	Horizons CDN Equity Mgd
+HUV	Horizons BP Sp500 VIX ST
+HUZ	Horizons Comex Silver Et
+HVI	Horizons BP Sp500 VIX ST
+HVU	Horizons BP Sp500 VIX ST
+HWD	Hardwoods Distribution I
+HWO	High Arctic Energy Servi
+HXD	Horizons Betapro S&P/Tsx
+HXE	Horizons SP TSX Capped E
+HXF	Horizons SP TSX Capped F
+HXH	Horizons CDN High Dividend Index ETF
+HXQ	Horizons Nasdaq 100 Index ETF
+HXQ.U	Horizons Nasdaq 100 Index ETF USD
+HXS	Horizons SP 500 Index Et
+HXS.U	Horizons SP 500 Index Et
+HXT	Horizons SP Tsx60 Index
+HXT.U	Horizons SP TSX 60 Index
+HXU	Horizons Betapro S&P/Tsx
+HYB.UN	Ddj High Yield Fund
+HYD	Hyduke Energy Services I
+HYG	Hydrogenics Corporation
+HYI	Horizons Active High Yie
+HZD	Horizons BP Comex Silver
+HZM	Horizonte Minerals Plc
+HZU	Horizons BP Comex Silver
+I	Intellipharmaceutics Int
+IAC.A	Infor Acquisition Corp C
+IAC.WT	Infor Acquisition Corp W
+IAE	Ithaca Energy Inc
+IAG	Industrial Alliance Ins
+IAG.PR.A	Industrial Alliance Ins
+IAG.PR.G	Industrial Alliance Pref
+IAM	Integrated Asset Managem
+IBG	Ibi Group Inc.
+IBG.DB	Ibi Group Inc. 7.0 Pct D
+IBG.DB.B	Ibi Group Inc 6 Pct Debs
+IBG.DB.C	Ibi Group Inc 7.0 Pct De
+ICE	Canlan ICE Sports Corp.
+ICP	Ic Potash Corp
+IDG	Indigo Books & Music Inc
+IDR.UN	REIT Indexplus Income Fu
+IDX.UN	Indexplus Income Fund.
+IFA	Ifabric Corp
+IFB.UN	Investment Grade Infrstr
+IFC	Intact Financial Corpora
+IFC.PR.A	Intact Financial Corp Pr
+IFC.PR.C	Intact Financial Corp Pr
+IFL.UN	ING Diversified Float Ra
+IFP	Interfor Corporation
+IGG	Innova Gaming Group Inc
+IGM	Igm Financial Inc.
+IGM.PR.B	Igm Financial Inc 5.90 P
+IGT	Ishares Gold Trust
+IHL.UN	ING High Income Floating
+III	Imperial Metals Corp
+IIP.UN	Interrent Real Estate In
+ILV	Powershares SP Intl Dev
+IMG	Iamgold Corp
+IMO	Imperial Oil
+IMP	Intermap Tech Corp.
+IMV	Immunovaccine Inc
+INC.UN	Income Fin Un
+INE	Innergex Renewable Energ
+INE.DB.A	Innergex Renewable Energ
+INE.PR.A	Innergex Renewable Energ
+INE.PR.C	Innergex Renewable Energ
+INN.DB.E	Innvest REIT 6 Pct Serie
+INN.DB.F	Innvest REIT 5.75 Pct De
+INN.DB.G	Innvest REIT 6.25 Pct De
+INN.UN	Innvest REIT Trust Units
+INO.UN	Inovalis REIT
+INQ	Inscape Corp. Sv
+INV	Inv Metals Inc.
+IPL	Inter Pipeline Ltd
+IRD	Intl Road Dynam
+IRG	Imvescor Restaurant Grou
+IRG.WT	Imvescor Restaurant Grou
+ISL.U	ING Floating Rate Senior
+ISL.UN	ING Floating Rate Senior
+ISV	Information Services Cor
+IT	The Intertain Group Limi
+IT.DB	The Intertain Group Limi
+ITC	Intrinsyc Technologies C
+ITH	International Tower Hill
+ITP	Intertape Polymer
+IVN	Ivanhoe Mines Ltd
+JE	Just Energy Group Inc
+JE.DB	Just Energy Group Inc. 6
+JE.DB.B	Just Energy Group Inc 5.
+JEC	Jura Energy Corporation
+JFS.UN	Jft Strategies Fund
+JOY	Journey Energy Inc
+K	Kinross Gold Corp.
+KAT	Katanga Mining Limited
+KBL	Kbro Linen Inc.
+KDX	Klondex Mines Ltd.
+KEG.UN	Keg Royalties Income Fun
+KEL	Kelt Exploration Ltd
+KER	Kerr Mines Inc
+KEY	Keyera Corp
+KFS	Kingsway Fin
+KGI	Kirkland Lake Gold Inc.
+KGI.DB	Kirkland Lake Gold Inc 6
+KGI.DB.A	Kirkland Lake Gold Inc 7
+KLS	Kelso Technologies Inc
+KMP.DB.A	Killam Properties Inc 5.
+KMP.DB.B	Killam Properties Inc 5.
+KMP.UN	Killam Apartment REIT
+KOR	Corvus Gold Inc
+KPT	Kp Tissue Inc
+KRN	Karnalyte Resources Inc
+KWH.UN	Crius Energy Trust
+KXS	Kinaxis Inc
+L	Loblaw Co
+L.PR.B	Loblaw Companies Ltd 2Nd
+LAC	Lithium Americas Corp
+LAC.WT	Lithium Americas Corp Wts
+LAM	Laramide Resources Ltd.
+LAS.A	Lassonde Industries Inc.
+LB	Laurentian Bank
+LB.PR.F	Laurentian Bank of Cda P
+LB.PR.H	Laurentian Bank of Cda P
+LB.PR.J	Laurentian Bank of Cda Pr Ser 15
+LBS	Life & Banc Split Corp.
+LBS.PR.A	Life & Banc Split Corp.
+LCS	Brompton Lifeco Split Co
+LCS.PR.A	Brompton Lifeco Split Co
+LEX	Lexam VG Gold Inc
+LFE	Canadian Life Companies
+LFE.PR.B	Canadian Life Split 2012
+LFX	Leadfx Inc
+LGC	Luna Gold Corp
+LGT.A	Logistec Corporation Cl
+LGT.B	Logistec Corporation Cl
+LIF	Labrador Iron Ore Royalt
+LII	Logan International Inc
+LIQ	Liquor Stores Na Ltd.
+LIQ.DB.A	Liquor Stores N.A. Ltd 5
+LMP	Lumenpulse Inc
+LN	Loncor Resources Inc
+LNF	Leons Furniture
+LNR	Linamar Corp
+LOW.UN	Low Volatility CDN Equit
+LRE	Long Run Exploration Ltd
+LRE.DB	Long Run Exploration Ltd
+LRT.DB.G	Lanesborough REIT 9.5 PC
+LRT.UN	Lanesborough R.E. Invest
+LSG	Lake Shore Gold Corp.
+LSG.DB	Lake Shore Gold Corp 6.2
+LTS	Lightstream Resources Lt
+LUC	Lucara Diamond Corp
+LUG	Lundin Gold Inc
+LUN	Lundin Mining Corp.
+LVN	Levon Resources Ltd
+LVU.UN	Low Volatility US Equity
+LYD	Lydian International Lim
+LYD.R	Lydian International Ltd Sub Rcpt
+MAG	MAG Silver Corp.
+MAL	Magellan Aero
+MAQ	Mcewen Mining Minera and
+MAR	Marret Resource Corp
+MAW	Mawson Resources Ltd
+MAX	Midas Gold Inc
+MAY	Meadow Bay Gold Corp
+MBA	Cibt Education Group Inc
+MBB.UN	Aston Hill Adv Bond Fund
+MBC	Mbac Fertilizer Corp.
+MBK.UN	Manulife US Regional Ban
+MBN	Mbn Corporation
+MBT	Manitoba Telecom
+MBX	Microbix J
+MCB	Mccoy Global Inc
+MCZ	Mad Catz Interactive Inc
+MDA	Macdonald Dettwiler
+MDF	Mediagrif Interac
+MDI	Major Drilling Grp
+MDS.UN	Healthcare Special Opp F
+ME	Moneta Porcupine J
+MEG	Meg Energy Corp.
+MEQ	Mainstreet Eq J
+MET	Metalore Res
+MFC	Manulife Fin
+MFC.PR.B	Manulife Financial Corp
+MFC.PR.C	Manulife Financial Corp.
+MFC.PR.F	Manulife Financial Corp
+MFC.PR.G	Manulife Financial Non C
+MFC.PR.H	Manulife Financial Corp
+MFC.PR.I	Manulife Financial Corp
+MFC.PR.J	Manulife Financial Corp
+MFC.PR.K	Manulife Financial Corp
+MFC.PR.L	Manulife Financial Corp
+MFC.PR.M	Manulife Financial Corp
+MFC.PR.N	Manulife Financial Corp
+MFC.PR.O	Manulife Financial Corp Pref Series 21
+MFI	Maple Leaf Foods
+MFR.UN	Manulife Floating Rate S
+MFT	Mackenzie Floating Rate Income
+MG	Magna International Inc
+MGA	Mega Uranium Ltd.
+MGB	Mackenzie Core Pls Glob Fixed Inc ETF
+MGO	Migao Corporation
+MGT	Mines Management Inc.
+MHY.UN	Marret High Yield Strate
+MIC	Genworth Mi Canada Inc.
+MID.UN	Mint Income Fund
+MIF.UN	Marquest CDN Equity Inco
+MIG.UN	Marret Investment Grade
+MKB	Mackenzie Core Pls CDN Fixed Income ETF
+MKP	Mcan Mortgage Corporatio
+MKZ.UN	Mackenzie Mstr Un
+MLD.UN	Moneda Latam Corp Bond F
+MLE.UN	Moneda Latam Growth Fund
+MLF.UN	Moneda Latam Fixed Incom
+MM	Mood Media Corporation
+MMF.UN	Marret Multi Strategy In
+MMM	Minco Gold Corporation
+MMP.UN	Precious Metals and Mini
+MND	Mandalay Resources Corpo
+MNS	Royal CDN Mint CDN Silve
+MNS.U	Royal CDN Mint CDN Svr R
+MNT	Royal Canadian Mint CDN
+MNT.U	Royal Canadian Mint CDN
+MNW	Mitel Networks Corporati
+MOZ	Marathon Gold Corporatio
+MPC	Madison Pac Cl B
+MPC.C	Madison Pacific Properti
+MPV	Mountain Prov J
+MQA.UN	Macquarie Emerging Mkts
+MQI.UN	Macquarie Global Infr In
+MR.DB	Melcor REIT 5.50 Pct Deb
+MR.UN	Melcor REIT
+MRC	Morguard Corp.
+MRD	Melcor Dev
+MRE	Martinrea International
+MRG.DB	Morguard Na REIT 4.65 PC
+MRG.UN	Morguard Na Residential
+MRI.U	Mercer International Inc
+MRT.DB.A	Morguard REIT 4.85 Pct D
+MRT.UN	Morguard Un
+MRU	Metro Inc
+MSI	Morneau Shepell Inc.
+MSI.DB	Morneau Shepell Inc. 5.7
+MSL	Merus Labs International
+MST.UN	Milestone Apartments Rei
+MSV	Minco Silver Corp.
+MTG	Timbercreek Sr Mortgage
+MTL	Mullen Group Ltd.
+MTY	Mty Food Group Inc
+MUB	Mackenzie Unconstrained Bond ETF
+MUX	Mcewen Mining Inc
+MWE	Mawson West Limted
+MX	Methanex Corp
+MXF	First Asset Can-Material
+MXF.A	First Asset Can-Material
+MXG	Maxim Power Corp.
+NA	National Bank of Canada
+NA.PR.Q	National Bank Pref Serie
+NA.PR.S	National Bank Pref Serie
+NA.PR.W	National Bank Pref Serie
+NA.PR.X	National Bank Pref Series 34
+NAF.UN	North American Financial
+NAL	Newalta Corporation
+NB	Niocorp Developments Ltd
+NBZ	Northern Blizzard Resour
+NCC.A	Newfoundland Capital Cor
+NCC.B	Newfoundland Capital Cor
+NCD.UN	North American Adv Cover
+NCF	Northcliff Resources Ltd
+NCQ	Novacopper Inc
+NCU	Nevada Copper Corp.
+NDM	Northern Dynasty Mineral
+NDM.WT	Northern Dynasty Minerals Ltd Wts
+NDM.WT.A	Northern Dynasty Minerals Ltd Wts A
+NDQ	Novadaq Technologies Inc
+NEW.A	Newgrowth Cl A
+NEW.PR.D	Newgrowth Corp Class B P
+NFI	New Flyer Industries Inc
+NFI.DB.U	New Flyer Industries Inc
+NG	Novagold Res Inc.
+NGD	New Gold Inc.
+NGD.WT.A	New Gold Inc. Warrants
+NGI.UN	Ndx Growth and Income Fu
+NGQ	Ngex Resources Inc.
+NHC	Nobilis Health Corp
+NIF.UN	Noranda Income Fund
+NII	Norsat International Inc
+NKO	Niko Res
+NKO.NT	Niko Resources Ltd 7.00
+NLN	Neulion Inc.
+NMI	Newmarket Gold Inc
+NML	New Millennium Iron Corp
+NOA	North American Energy Pa
+NPC	Napec Inc
+NPF.UN	North American Preferred
+NPI	Northland Power Inc.
+NPI.DB.B	Northland Power Inc 5.00
+NPI.DB.C	Northland Power Inc 4.75
+NPI.PR.A	Northland Power Preferre
+NPI.PR.B	Northland Power Inc Pref Series 2
+NPI.PR.C	Northland Power Inc Pref
+NPK	Verde Potash Plc
+NPS	Northern Power Systems C
+NRE	Namibia Rare Earths Inc
+NRF.UN	North American REIT Inco
+NRI	Nuvo Research Inc
+NSU	Nevsun Res J
+NTB	Neptune Technologies & B
+NUS	Nautilus Minerals Inc.
+NUX	New Pacific Metals Corp
+NVA	Nuvista Energy Ltd.
+NVC	Neovasc Inc
+NVU.DB	Northview Apartment REIT 5.75 Pct Debs
+NVU.UN	Northview Apartment REIT
+NWC	The North West Company I
+NWH.DB	Northwest Healthcare Pro
+NWH.DB.A	Northwest Healthcare Pro
+NWH.DB.B	Northwest Healthcare Pro
+NWH.DB.C	Northwest Healthcare Pro
+NWH.DB.D	Northwest Healthcare Prop 5.50 Pct Debs
+NWH.UN	Northwest Healthcare Pro
+NXC	Nexc Partners Corp
+NXF	First Asset Energy Giant
+NXF.A	First Asset Energy Giant
+NXF.B	First Asset Energy Giant
+NXF.D	First Asset Energy Giant
+NXJ	Nexj Systems Inc
+OBM	Oban Mining Corporation
+OBM.WT	Oban Mining Corporation
+OCS.UN	Ocp Credit Strategy Fund
+OCV.UN	Convertible Debentures I
+OCX	Onex Corporation Sv
+ODI.UN	Oleary Canadian Diversif
+OER	Oando Energy Resources I
+OFR.UN	Floating Rate Income Fun
+OGC	Oceanagold Corporation
+OGD	Orbit Garant Drilling In
+OLY	Olympia Financial Group
+OMI	Orosur Mining Inc
+ONC	Oncolytics Bio
+ONR.DB.B	Onereit 5.45 Pct Debs
+ONR.DB.C	Onereit 5.50 Pct Debs
+ONR.UN	Onereit
+OPM	Opta Minerals Inc.
+OR	Osisko Gold Royalties Lt
+OR.WT	Osisko Gold Royalties Lt
+OR.WT.A	Osisko Gold Royalties Ltd Wts A
+ORA	Aura Minerals  Inc.
+ORL	Orocobre Limited
+ORT	Orbite Aluminae Inc
+ORV	Orvana Minerals J
+OSB	Norbord Inc.
+OSF.UN	Oil Sands Sector Fund
+OSL.UN	Ocp Senior Credit Fund
+OSP	Brompton Oil Split Corp
+OSP.PR.A	Brompton Oil Split Corp
+OSU	Orsu Metals Corporation
+OTC	Open Text Corp
+OUY.U	Oleary US Strategic Yiel
+OUY.UN	Oleary US Strategic Yiel
+OVI.A	Ovivo Inc Class A
+OVI.B	Ovivo Inc Class B
+OXC	Oryx Petroleum Corporati
+OXF	First Asset Can-Energy C
+OXF.A	First Asset Can-Energy C
+P	Primero Mining Corp
+P.DB.V	Primero Mining Corp. 5.7
+PAA	Pan American J
+PAR.DB.A	Partners REIT 6 Pct Debs
+PAR.DB.B	Partners REIT 5.5 Pct De
+PAR.UN	Partners REIT Units
+PAY	Posera Hdx Ltd
+PBD	Purpose Total Return Bon
+PBH	Premium Brands Holdings
+PBH.DB.C	Premium Brands Hld Corp
+PBH.DB.D	Premium Brands Holdings
+PBH.DB.E	Premium Brands Hld Corp 4.65 Pct Debs
+PBI	Purpose Best Ideas Fund
+PBI.B	Purpose Best Ideas Fund
+PBL	Pollard Banknote Limited
+PBU.UN	Precious Metals Bullion
+PBY.UN	Canso Credit Income Fund
+PCD.UN	Pathfinder Income Fund
+PCF.U	Energy Credit Opp Income
+PCF.UN	Energy Credit Opp Income
+PCY	Prophecy Development Cor
+PD	Precision Drilling Corpo
+PDC	Powershares CDN Div Idx
+PDF	Purpose Core Dividend Fu
+PDL	N A Palladium
+PDN	Paladin Energy Ltd.
+PDV	Prime Dividend Corp. Cl
+PDV.PR.A	Prime Dividend Corp Pref
+PEG	Pattern Energy Group Inc
+PER	Perk.Com Inc
+PEU	Purpose Enhanced US Equi
+PEU.B	Purpose Enhanced US Equi
+PEY	Peyto Exploration and Dv
+PFB	Pfb Corp
+PFD.U	Limited Duration Inv Gra
+PFD.UN	Limited Duration Inv Gr
+PFH	Powershares HY Corp Bond
+PFL	Powershares 1 To 3 Yr La
+PFR.UN	Advantaged Preferred Sha
+PFT.UN	Canadian Preferred Share
+PFU.UN	Investment Grade Managed
+PG	Premier Gold Mines Ltd.
+PGD	Peregrine Diamonds Ltd.
+PGF	Pengrowth Energy Corpora
+PGF.DB.B	Pengrowth Energy Corp 6.
+PGI.UN	Pimco Global Inc Opportu
+PGL	Powershares Ultra Liquid
+PHE	Purpose Tactical Hedged
+PHE.B	Purpose Tactical Hedged
+PHR	Purpose Duration Hedged
+PHS.U	Sprott Physical Silver T
+PHW	Purpose Intl Tactical He
+PHX	Phx Energy Services Corp
+PHY.U	Sprott Physical Gold Tru
+PIC.A	Premium Income A
+PIC.PR.A	Premium Income Pr
+PID	Purpose Intl Dividend Fu
+PIF	Polaris Infrastructure I
+PIH	Pacific Insight Electron
+PIN	Purpose Monthly Income F
+PJC.A	Jean Coutu Group (Pjc) I
+PKI	Parkland Fuel Corporatio
+PLG	Pilot Gold Inc
+PLI	Prometic Life Sciences I
+PLS	Polaris Materials Corpor
+PLV	Powershares Low Vol Port
+PLZ.DB.B	Plaza Retail REIT 8.00 P
+PLZ.DB.C	Plaza Retail REIT 7.00 P
+PLZ.DB.D	Plaza Retail REIT 5.75 P
+PLZ.UN	Plaza Retail REIT
+PMB.UN	Picton Mahoney Tactical
+PME	Sentry Select Primary Me
+PMM	Purpose Multi Strategy M
+PMN	Promis Neurosciences Inc
+PMT	Perpetual Energy Inc.
+PNC.A	Postmedia Network Canada
+PNC.B	Postmedia Network Canada
+PNE	Pine Cliff Energy Ltd
+PNP	Pinetree Capital Ltd
+PNP.DB	Pinetree Capital Ltd 10
+PNP.RT	Pinetree Capital Ltd RTS
+PNT	CPI Card Group Inc
+POM	Polymet Mining Corp.
+POT	Potash Corp of Sask Inc
+POU	Paramount Resources Ltd.
+POW	Power Corporation of Can
+POW.PR.A	Power Corp A Pr
+POW.PR.B	Power Corp. Preferred Sh
+POW.PR.C	Power Corp of Canada 5.8
+POW.PR.D	Power Corp  Non-Cum 1St
+POW.PR.F	Power Corp 1St Pr
+POW.PR.G	Power Corp of Canada 5.6
+PPL	Pembina Pipeline Corpora
+PPL.DB.F	Pembina Pipeline Corp. 5
+PPL.PR.A	Pembina Pipeline Corp Pr
+PPL.PR.C	Pembina Pipeline Corp Pr
+PPL.PR.E	Pembina Pipeline Corp Pr
+PPL.PR.G	Pembina Pipeline Corp Pr
+PPL.PR.I	Pembina Pipeline Corp Pr
+PPL.PR.K	Pembina Pipeline Corp Pref Series 11
+PPL.PR.M	Pembina Pipeline Corp Pref Ser 13
+PPS	Powershares CDN Pref Sha
+PPT.U	Sprott Physical Platinum
+PPY	Painted Pony Petroleum L
+PR	Lysander Slater Pref Sha
+PRA	Purpose Diversified Real
+PRE	Pacific Rubiales Energy
+PRF.UN	Pinebridge Inv Grade Pre
+PRK	Potash Ridge Corporation
+PRQ	Petrus Resources Ltd
+PRU	Perseus Mining Limited
+PRW	Petrowest Corporation
+PSA	Purpose High Interest Sa
+PSB	Pwrshrs 1 To 5 Yr  Ladde
+PSD	Pulse Seismic Inc.
+PSF.UN	Preferred Share Investme
+PSG	Performance Sports Group
+PSI	Pason Systems Inc.
+PSK	Prairiesky Royalty Ltd
+PSU.U	Purpose US Cash ETF
+PSY	Pwrshr Glb Sharehldr Yie
+PTB	Powershares Tactical Bon
+PTM	Platinum Group Metals Lt
+PTS	Points International Ltd
+PUB.UN	US Banks Income and Growth Fund
+PUD	Purpose US Dividend Fund
+PUD.B	Purpose US Dividend Fund
+PUR	Pure Technologies Ltd
+PVG	Pretium Resources Inc.
+PVS.PR.B	Partners Value Split Cor
+PVS.PR.C	Partners Value Split Cor
+PVS.PR.D	Partners Value Split Cor
+PVS.PR.E	Partners Value Split Corp Pref Ser 7
+PWB	Pacific and Western Bank
+PWB.PR.A	Pacific and Western Bank
+PWB.PR.B	Pacific and Western Bank
+PWC	Pwc Capital Inc
+PWC.NT.C	Pwc Capital Inc 9 Pct Se
+PWC.PR.A	Pwc Capital Inc Pref Cla
+PWC.PR.B	Pwc Capital Inc Pref Cla
+PWF	Power Financial Corp.
+PWF.PR.A	Power Fin Ser A Pr
+PWF.PR.E	Power Fin Ser D Pr
+PWF.PR.F	Power Financial Corp. Pr
+PWF.PR.G	Power Financial Corp 5.9
+PWF.PR.H	Power Financial Corp 5.7
+PWF.PR.I	Power Financial Corp 6%
+PWF.PR.K	Power Fin Corp 4.95% Ser
+PWF.PR.L	Power Financial Corp Ser
+PWF.PR.O	Power Financial Corp 5.8
+PWF.PR.P	Pwr Fnl Corp 4.40 Non Cu
+PWF.PR.Q	Power Fin Corp 4.40 Pct Pref Ser Q
+PWF.PR.R	Power Financial Corp 5.5
+PWF.PR.S	Power Financial Corp Pre
+PWF.PR.T	Power Financial Corp 4.2
+PWT	Penn West Petroleum Ltd.
+PXC	Powershr FTSE Rafi CAD I
+PXF	First Asset Provincial B
+PXF.A	First Asset Prov Bond Id
+PXG	Pwrshr FTSE Rafi Global
+PXS	Pwrshr FTSE Rafi US Fdam
+PXT	Parex Resources Inc
+PXU	Powershr FTSE Rafi US Id
+PXX	Blackpearl Resources Inc
+PYF	Purpose Premium Yield Fund ETF
+PZA	Pizza Pizza Royalty Corp
+PZC	Pwrshr FTSE Rafi CDN Sml
+PZW	Pwrshr FTSE Rafi Glb Sml
+QBR.A	Quebecor Inc. Cl.A Mv
+QBR.B	Quebecor Inc. Cl.B Sv
+QCP	Questrade Fixed Inc Core Plus ETF
+QEC	Questerre Energy Corp
+QGE	Questrade Global Total Equity ETF
+QLT	Qlt Inc
+QMG	Questrade Rus US Mc Grwt
+QMV	Questrade Rus US Mc Val
+QQC	Powershares QQQ CAD Hdg
+QRD	Questrade Rus 1000 EW US
+QRH	Questrade Rus 1000 Eq US
+QRM	Quest Rare Minerals Ltd
+QRM.WT	Quest Rare Minerals Ltd
+QRT	Questrade Rus 1000 EW US
+QSP.UN	Restaurant Brands Intl L
+QSR	Restaurant Brands Intern
+QXM	F A Morningstar Nb Quebe
+QXM.A	F A Morningstar Nb Quebe
+RAI.UN	Real Asset Income and Gr
+RAV.UN	Ravensource Fund
+RAY.A	Stingray Digital Group I
+RAY.B	Stingray Digital Group I
+RBA	Ritchie Bros Auctioneers
+RBM	Response Biomedical Corp
+RBN.UN	Blue Ribbon Income Fund
+RBO	RBC 1 To 5 Yr Laddered C
+RBS	R Split III Corp. Capita
+RBS.PR.B	R Split III Corp Pref Cl
+RC	Rdm Corp
+RCD	RBC Quant CDN Dividend L
+RCE	RBC Quant Canadian Equit
+RCH	Richelieu Hardware
+RCI.A	Rogers Communications In
+RCI.B	Rogers Communications In
+RCO.UN	Middlefield Can Global R
+RDI	Rockwell Diamonds Inc
+RDK	Redhawk Resources Inc
+RDL	Redline Communications G
+RE	Rock Energy Inc.
+REF.UN	CDN Real Estate Un
+REI.PR.C	Riocan REIT Pref Series
+REI.UN	Riocan Real Est Un
+RET	Reitmans Canada
+RET.A	Reitmans (Canada) Ltd.
+RFP	Resolute Forest Products
+RGL	Royal Gold J
+RGX	Argex Titanium Inc
+RGX.DB	Argex Titanium Inc 8.0 P
+RHF	RBC Quant EAFE Equity Ldrs [Ca
+RHI	RBC Quant EAFE Div Leade
+RHP	RBC Quant European Div L
+RHS	RBC Quant US Equity Lead
+RHU	RBC Quant US Div Leaders
+RIB.UN	Ridgewood CAD Invest Gra
+RIC	Richmont Mines
+RID	RBC Quant EAFE Div Leade
+RID.U	RBC Quant EAFE Div Leade
+RIE	RBC Quant EAFE Equity Le
+RIT	First Asset Canadian REIT ETF
+RKN	Redknee Solutions Inc.
+RLB	RBC 1-5 Year Laddered Canadian
+RLD	RBC Strategic Global Div Leaders ETF
+RLE	RBC Stategic Global Equity Leaders ETF
+RME	Rocky Mountain Dealershi
+RMP	Rmp Energy Inc
+RMX	Rubicon Minerals Corp.
+RN	Rio Novo Gold Inc
+RNW	Transalta Renewables Inc
+RNX	Royal Nickel Corporation
+RNX.WT	Royal Nickel Corporation
+RON	Rona Inc.
+RON.PR.A	Rona Inc Class A Preferr
+RON.PR.B	Rona Inc Pref Series 7
+RPD	RBC Quant European Div L
+RPD.U	RBC Quant European Div L
+RPI.UN	Richards Packaging Incom
+RQD	RBC Target 2016 Corp Bon
+RQE	RBC Target 2017 Corp Bon
+RQF	RBC Target 2018 Corp Bon
+RQG	RBC Target 2019 Corp Bon
+RQH	RBC Target 2020 Corp Bon
+RQI	RBC Target 2021 Corp Bon
+RRX	Raging River Exploration
+RSI	Rogers Sugar Inc
+RSI.DB.C	Rogers Sugar Inc. 5.70 D
+RSI.DB.D	Rogers Sugar 5.75 Pct Co
+RTCM	S&P/TSX Income Trust
+RTG	Rtg Mining Inc
+RTRE	S&P/TSX Capped REIT
+RTU.UN	CDN Resources Un
+RUD	RBC Quant US Div Leaders
+RUD.U	RBC Quant US Div Leaders
+RUE	RBC Quant US Equity Lead
+RUS	Russel Metals
+RVX	Resverlogix Corp.
+RWC	First Asset MSCI Canada
+RWE	First Asset MSCI Europe
+RWE.A	First Asset MSCI Europe
+RWE.B	First Asset MSCI Europe
+RWE.D	First Asset MSCI Europe
+RWU	First Asset MSCI USA Lr
+RWU.B	First Asset MSCI USA Lr
+RWU.D	First Asset MSCI USA Lr Wgtd Unhg AC ETF
+RWW	First Asset MSCI World L
+RWW.B	First Asset MSCI Wld Lr
+RWW.D	First Asset MSCI Wld Lr Wtd Uh ETF AC
+RXD	RBC Quant Emerging Mkts
+RXD.U	RBC Quant Emerging Mkts
+RXE	RBC Quant Emerg Mkts Equity Leaders ETF
+RY	Royal Bank of Canada
+RY.PR.A	Royal Bank of Canada Pr
+RY.PR.B	RBC Non-Cum First Prefer
+RY.PR.C	Royal Bank of Can. First
+RY.PR.D	RBC First Pref Shares Se
+RY.PR.E	RBC Non-Cum First Pr Shs
+RY.PR.F	RBC Non-Cum First Pref S
+RY.PR.G	RBC Non-Cum First Pr Ser
+RY.PR.H	Royal Bank of Canada Prf
+RY.PR.I	Royal Bank  Pref Series
+RY.PR.J	Royal Bank Pref Series B
+RY.PR.K	Royal Bank Pref Series A
+RY.PR.L	RBC Non Com 5-Year Srs A
+RY.PR.M	Royal Bank Pref Series B
+RY.PR.N	Royal Bank Pref Series B
+RY.PR.O	RBC Pref Shares Series B
+RY.PR.P	RBC Pref Shares Series Bj
+RY.PR.Q	RBC Pref Shares Series Bk
+RY.PR.R	RBC Pref Shares Series Bm
+RY.PR.W	RBC 4.90% Ser. W
+RY.PR.Z	RBC First Pref Sh Series
+S	Sherritt Intl Rv
+SAM	Starcore International M
+SAP	Saputo Inc.
+SAU	ST Augustine Gold and Co
+SBB	Sabina Gold and Silver C
+SBC	Brompton Split Banc Corp
+SBC.PR.A	Brompton Split Banc Corp
+SBI	Serabi Gold Plc
+SBN	S Split Corp. Cl.A
+SBN.PR.A	S Split Corp. Pref A
+SBR	Silver Bear Resources In
+SBT.UN	Silver Bullion Trust Uni
+SCB	Street Capital Group Inc
+SCC	Sears Canada Inc
+SCL	Shawcor Ltd
+SCP	Sprott Resource  Corp
+SCU	The Second Cup Ltd.
+SCW.UN	Canso Select Opportuniti
+SCY	Scandium International M
+SDY	Strad Energy Services Lt
+SEA	Seabridge Gold Inc.
+SEC	Senvest Capital
+SEN	Serinus Energy Inc
+SES	Secure Energy Services I
+SEV	Spectra7 Microsystems In
+SFD	Nxt Energy Solutions Inc
+SGF	Shore Gold Inc.
+SGQ	Southgobi Resources Ltd
+SGY	Surge Energy Inc
+SH	Shopify Inc
+SHA	Sphere FTSE Asia Sustainable Yld ETF
+SHC	Sphere FTSE Cda Sustainable Yld ETF
+SHE	Sphere FTSE Euro Sustainable Yld ETF
+SHU	Sphere FTSE US Sustainable Yld ETF
+SIA	Sienna Senior Living Inc
+SIA.DB	Sienna Senior Living Inc
+SIF.UN	Strategic Income Allocat
+SII	Sprott Inc.
+SIN.UN	Sciti Trust
+SIS	Savaria Corp.
+SJ	Stella Jones Inc
+SJR.B	Shaw Communications Inc.
+SJR.PR.A	Shaw Communications Inc
+SKG.UN	Skylon Growth & Income F
+SLF	Sun Life Financial Inc.
+SLF.PR.A	Sun Life Financial Inc P
+SLF.PR.B	Sun Life Financial Inc.
+SLF.PR.C	Sunlife Financial Inc. C
+SLF.PR.D	Sun Life Financial Inc.
+SLF.PR.E	Sun Life Financial Inc.
+SLF.PR.G	Sun Life Financial Inc.
+SLF.PR.H	Sun Life Financial Inc P
+SLF.PR.I	Sun Life Financial Inc P
+SLF.PR.J	Sun Life Financial Inc P
+SLR	Solitario Exploration &
+SLW	Silver Wheaton Corp.
+SMA	Smart Technologies Inc.
+SMC	Sulliden Mining Capital
+SMF	SEMAFO J
+SMT	Sierra Metals Inc
+SMU.UN	Summit Industrial Income
+SNC	Snc-Lavalin Sv
+SOT.UN	Slate Office REIT
+SOX	Stuart Olson Inc
+SOX.DB.A	Stuart Olson Inc 6 Pct D
+SOY	Sunopta Inc.
+SPB	Superior Plus Corp.
+SPB.DB.F	Superior Plus Corp. 6.0
+SPB.DB.H	Superior Plus Corp 6.0 P
+SPE	Spartan Energy Corp
+SQP	Strongco Corporation
+SRT.RT	Slate Retail REIT RTS
+SRT.U	Slate Retail REIT USD
+SRT.UN	Slate Retail REIT
+SRU.UN	Calloway Real Estate Inv
+SRV.UN	Sir Royalty Income Fund
+SSF.UN	Symphony Floating Rate S
+SSL	Sandstorm Gold Ltd
+SSL.WT	Sandstorm Gold Ltd Wts
+SSL.WT.B	Sandstorm Gold Ltd Warra
+SSO	Silver Standard Res Inc.
+ST	Stonegate Agricom Ltd
+STB	Student Transportation I
+STB.DB.C	Student Transportation I
+STB.DB.U	Student Transportation I
+STN	Stantec Inc
+STN.R	Stantec Inc Sub Receipt
+STNC	S&P/TSX North American P
+STNU	S&P/TSX North American P
+SU	Suncor Energy Inc.
+SUM	Solium Capital Inc.
+SVB	Silver Bull Resources In
+SVC	Sandvine Corporation
+SVM	Silvercorp Metals Inc.
+SVR	Ishares Silver Bullion E
+SVR.C	Ishares Silver Bullion E
+SVY	Savanna Energy Services
+SW	Sierra Wireless
+SWH	Sunwah International Lim
+SWY	Stornoway Diamond Corp.
+SWY.DB.U	Stornoway Diamond Corp 6
+SWY.WT.A	Stornoway Diamond Corp W
+SXI	Synex Intl J
+SXP	Supremex Inc.
+T	Telus Corporation
+TA	Transalta Corporation
+TA.PR.D	Transalta Corp Prfd Seri
+TA.PR.E	Transalta Corp Pref Series B
+TA.PR.F	Transalta Corp Pref Seri
+TA.PR.H	Transalta Corp Pref Sh S
+TA.PR.J	Transalta Corp Pref Seri
+TAO	Tag Oil Ltd
+TBE	Twin Butte Energy Ltd.
+TBE.DB	Twin Butte Energy Ltd 6.
+TBL	Taiga Building Products
+TBL.NT	Taiga Building Products
+TC	Tucows Inc.
+TCK.A	Teck Resources Limited C
+TCK.B	Teck Resources Limited C
+TCL.A	Transcontinental Inc. C
+TCL.B	Transcontinental Inc. C
+TCM	Thompson Creek Metals Co
+TCN	Tricon Capital Group Inc
+TCN.DB.A	Tricon Capital Group Inc
+TCP	Trident Performance Corp
+TCS	Tecsys Inc J
+TCT.UN	Top 10 Canadian Financia
+TCW	Trican Well
+TCZ	Trident Performance Corp
+TD	Toronto-Dominion Bank
+TD.PF.A	TD Bank Pref Series 1
+TD.PF.B	TD Bank Pref Series 3
+TD.PF.C	TD Bank Pref Series 5
+TD.PF.D	TD Bank Pref Series 7
+TD.PF.E	TD Bank Pref Series 9
+TD.PF.F	TD Bank Pref Series 11
+TD.PF.G	TD Bank Pref Series 12
+TD.PR.S	TD Bank Ser S Pr
+TD.PR.T	TD Bank Pref Series T
+TD.PR.Y	TD Bank Ser Y Pr
+TD.PR.Z	TD Bank Pref Series Z
+TDB	TD CDN Aggregate Bond Index ETF
+TDG	Trinidad Drilling Ltd.
+TEI	Toscana Energy Income Co
+TEI.DB	Toscana Energy Income Co
+TEL	Tellza Communications In
+TET	Trilogy Energy Corp.
+TFI	Transforce Inc.
+TGA.DB	Transglobe Apartment Rei
+TGF.UN	Timbercreek Global Real
+TGL	Transglobe Energy Corp
+TGL.DB	Transglobe Energy Corp 6
+TGO	Terago Inc.
+TGZ	Teranga Gold Corporation
+TH	Theratechnologies
+The	TD Intl Equity CAD Hedge Index ETF
+THO	Tahoe Resources Inc
+THU	TD SP 500 CAD Hedge Index ETF
+TIH	Toromont Ind
+TKO	Taseko Mines Ltd.
+TLB	Tearlab Corporation
+TLF.UN	Tech Leaders Income Fund
+TLO	Talon Metals Corp.
+TLV	Powershares SP TSX Low V
+TMA	Trimac Transportation Lt
+TMB	Tembec Inc.
+TMC	Timbercreek Mtg Inv Corp
+TMC.DB	Timbercreek Mtg Inv Corp
+TMD	Titan Medical Inc
+TMD.WT.A	Titan Medical Inc Wts Cl
+TMD.WT.B	Titan Medical Inc Wts Cl
+TMD.WT.C	Titan Medical Inc Wts Cl
+TMD.WT.E	Titan Medical Inc Wts Cl
+TMD.WT.F	Titan Medical Inc Wts Cl F
+TMD.WT.G	Titan Medical Inc Wts Cl G
+TMD.WT.H	Titan Medical Inc Wts Cl H
+TMI	Trimetals Mining Inc
+TMI.B	Trimetals Mining Inc Cla
+TML	Treasury Metals Inc.
+TMM	Timmins Gold Corp
+TMR	Tmac Resources Inc
+TNP	Transatlantic Petroleum
+TNT.UN	True North Commercial Re
+TNX	Tanzanian Royalty Explor
+TOF.UN	Taylor North American Eq
+TOG	Torc Oil and Gas Ltd
+TOOC	TSX Capped Composite Index
+TOS	Tso3 Inc
+TOT	Total Energy Services In
+TOU	Tourmaline Oil Corp
+TOY	Spin Master Corp
+TPE	TD International Equity Index ETF
+TPH	Temple Hotels Inc
+TPH.DB.C	Temple Hotels Inc 8.0 PC
+TPH.DB.D	Temple Hotels Inc 7.75 P
+TPH.DB.E	Temple Hotels Inc 7.25 P
+TPH.DB.F	Temple Hotels Inc 7.0 PC
+TPK	Ten Peaks Coffee Company
+TPL	Tethys Petroleum Limited
+TPU	TD SP 500 Index ETF
+TPX.A	Molson Coors Canada Inc.
+TPX.B	Molson Coors Canada Inc.
+TR	Trillium Therapeutics In
+TRF.UN	First Asset Energy & Res
+TRH.UN	Triax Diversif Un
+TRI	Thomson Reuters Corporat
+TRI.PR.B	Thomson Reuters Corporat
+TRP	Transcanada Corp.
+TRP.PR.A	Transcanada Corp Pref Se
+TRP.PR.B	Transcanada Corp Pref Se
+TRP.PR.C	Transcanada Cumul Redeem
+TRP.PR.D	Transcanada Corp Pref Se
+TRP.PR.E	Transcanada Corp Pref Se
+TRP.PR.F	Transcanada Corp Pref Se
+TRP.PR.G	Transcanada Corp Pref Se
+TRP.PR.H	Transcanada Corp Pref Se
+TRP.PR.I	Transcanada Corp Pref Series 6
+TRP.PR.J	Transcanada Corp Pref Series 13
+TRP.R	Transcanada Corp Sub Receipts
+TRQ	Turquoise Hill Resources
+TRZ	Transat At Inc
+TS.B	Torstar Corp. Cl. B Nv
+TSL	Tree Island Steel Ltd
+TST	Telesta Therapeutics Inc
+TTCD	S&P/TSX Capped Consumer
+TTCS	S&P/TSX Capped Consumer
+TTE.UN	Top 20 Europe Dividend T
+TTEN	S&P/TSX Capped Energy
+TTFS	S&P/TSX Capped Financial
+TTGD	S&P/TSX Capped Gold
+TTH	Transition Therapeutics
+TTHC	S&P/TSX Capped Health CA
+TTIN	S&P/TSX Capped Industria
+TTMN	S&P/TSX Capped Metals An
+TTMT	S&P/TSX Capped Materials
+TTP	TD SP TSX Capped Comp Index ETF
+TTRE	S&P/TSX Capped Real Esta
+TTTK	S&P/TSX Capped Informati
+TTTS	S&P/TSX Capped Telecommu
+TTUT	S&P/TSX Capped Utilities
+TTY.UN	Top 20 Dividend Trust
+TUT.UN	Top 20 US Dividend Trust
+TV	Trevali Mining Corporati
+TVA.B	Tva Group Inc. Cl.B Nv
+TVE	Tamarack Valley Energy L
+TVI	Tvi Pacific J
+TVK	Terravest Capital Inc
+TVK.DB	Terravest Capital Inc 7.
+TWC	Twc Enterprises Limited
+TX	Tuckamore Capital Manage
+TXBA	S&P/TSX Composite Index
+TXBB	S&P/TSX Composite Buybac
+TXBE	S&P/TSX Equal Weight Glo
+TXBM	S&P/TSX Globalbase Metal
+TXCE	S&P/TSX Composite Equal
+TXCT	S&P/TSX Renew Energ & Cl
+TXCX	TSX Composite Index
+TXDC	S&P/TSX Composite Divide
+TXDE	S&P/TSX Equal Weight Div
+TXDV	S&P/TSX CDN Div Aristocr
+TXEI	S&P/TSX Equity Income In
+TXEW	S&P/TSX 60 Equal Weight
+TXF	First Asset Tech Giants
+TXF.A	First Asset Tech Giants
+TXFO	TSX Completion Index
+TXG	Torex Gold Resources Inc
+TXGE	S&P/TSX Equal Weight Glo
+TXGM	S&P/TSX Global Mining In
+TXHB	S&P/TSX Composite High B
+TXHE	S&P/TSX High Income Ener
+TXHU	S&P/TSX High Income Ener
+TXIE	S&P/TSX Equal Weight Ind
+TXL	Tesla Exploration Ltd
+TXLV	S&P/TSX Composite Low Vo
+TXOE	S&P/TSX Equal Weight Oil
+TXP	Touchstone Exploration I
+TXPL	S&P/TSX Preferred Share
+TXPR	S&P/TSX  Preferred Share
+TXSC	TSX 60 Capped Index
+TXSI	S&P/TSX 60 Shariah Index
+TXSX	TSX 60 Index
+TXSY	S&P/TSX Composite Shareh
+TXT.PR.A	Top 10 Split Trust Prf.
+TXT.UN	Top 10 Split Trust
+TXTW	TSX Smallcap Index
+TZS	Trez Capital Senior Mort
+TZZ	Trez Capital Mortgage In
+U	Uranium Participation Co
+UCD.UN	Fa Morningstar US Consum
+UDA.UN	Caldwell US Dividend Adv
+UEX	Uex Corp
+UFS	Domtar Corporation
+ULV	Powershares Sp500 Low Vo
+UNC	United Corp Ltd
+UNG.PR.C	Union Gas 5-1/2% Pr
+UNS	Uni Select Inc
+UR	Urthecast Corp
+URB	Urbana Corporation
+URB.A	Urbana Corporation Cl A
+URE	Ur-Energy Inc.
+US	US Dividend Growers Inco
+USA	Americas Silver Corporation
+USB	Powershares Lad US 0 To
+USB.U	Powershares Lad US 0 To
+USF.UN	US Financials Income Fun
+USH.UN	US Housing Recovery Fund
+USM.UN	US Agency Mortgage Backe
+UST.PR.B	Utility Split Trust Clas
+UST.UN	Utility Split Trust
+UTC.C	Utility Corp Cl C
+UTE.UN	Canadian Utilities Telec
+UWE	U3O8 Corp
+UXM	F A Morningstar US Div T
+UXM.A	F A Morningstar US Div T
+UXM.B	Fa Morningstar US Div Tg
+UXM.D	Fa Morningstr US Div Tgt
+VA	Vanguard FTSE Dev Asia P
+VAB	Vanguard CDN Aggregate B
+VAC	Scivac Therapeutics Inc
+VBG	Vanguard Global Ex US Ag
+VBU	Vanguard US Agg Bond Ind
+VCE	Vanguard FTSE Canada Ind
+VCM	Vecima Networks Inc.
+VCN	Vanguard FTSE Canada All
+VDU	Vanguard FTSE Developed
+VDY	Vanguard FTSE CDN High D
+VE	Vanguard FTSE Dev Europe
+VEE	Vanguard FTSE Emerging M
+VEF	Vanguard FTSE Dev Ex Na
+VEM	Vena Resources Inc
+VET	Vermilion Energy Inc
+VFF	Village Farms Internatio
+VFV	Vanguard SP 500 Index Et
+VGG	Vanguard US Div Appr Idx
+VGH	Vanguard US Div Appr Idx
+VGI.UN	Voya Global Income Solut
+VGZ	Vista Gold Corp
+VI	Vanguard FTSE Dev All Cap Na Idx
+VII	Seven Generations Energy
+VIP.UN	Aston Hill Vip Income Fu
+VIU	Vanguard FTSE Dev All Cap Na Idx
+VIXC	S&P/TSX 60 VIX
+VLE	Valeura Energy Inc
+VLN	Velan Inc. Sv
+VNP	5N Plus Inc.
+VNP.DB	5N Plus Inc 5.75 Pct Deb
+VNR	Valener Inc
+VNR.PR.A	Valener Inc Pref Series
+VRE	Vanguard FTSE CDN Capped
+VRX	Valeant Pharmaceuticals
+VSB	Vanguard CDN Short-Term
+VSC	Vanguard CDN Short Term
+VSN	Veresen Inc.
+VSN.PR.A	Veresen Inc Pref Sh Seri
+VSN.PR.C	Veresen Inc Pref Sh Seri
+VSN.PR.E	Veresen Inc Pref Sh Seri
+VSP	Vanguard SP 500 Index Et
+VUN	Vanguard US Total Market
+VUS	Vanguard US Total Mkt Id
+VXC	Vanguard FTSE All World
+VXM	F A Morningstar Intl Val
+VXM.A	F A Morningstar Intl Val
+VXM.B	F A Morningstar Intl Val
+VXM.D	F A Morningstar Intl Val
+VXS	Vixs Systems Inc
+VXSC	S&P/TSX Venture Select I
+W.PR.H	Westcoast 7 Pr
+W.PR.J	Westcoast 8 Pr
+W.PR.K	Westcoast Energy Inc Pref Series 10
+WB	Whistler Blackcomb Holdi
+WCM.A	Wilmington Capital Mgmt
+WCM.B	Wilmington Capital Management Cl B
+WCP	Whitecap Resources Inc
+WDO	Wesdome Gold Mines Ltd.
+WDO.DB.A	Wesdome Gold Mines Ltd 7
+WEF	Western Forest Products
+WEQ	Westernone Inc
+WEQ.DB	Westernone Inc 6.25 Pct
+WEQ.DB.C	Westernone Inc 8.00 Pct
+WFC	Wall Financial
+WFS	World Financial Split Co
+WFS.PR.A	World Financial Split Co
+WFT	West Fraser Timber Co Lt
+WG	Wellgreen Platinum Ltd
+WIN	Wi-Lan Inc
+WIR.U	Wpt Industrial REIT USD
+WJA	Westjet Airlines Ltd.
+WJX	Wajax Corporation
+WM	Wallbridge Mng J
+WN	Weston George
+WN.PR.A	George Weston Limited Pr
+WN.PR.C	George Weston Ltd. 5.20%
+WN.PR.D	George Weston Ltd. 5.2%
+WN.PR.E	George Weston Ltd. 4.75
+WPK	Winpak Ltd
+WPT	Westport Innovations Inc
+WPX	Western Potash Corp
+WRG	Western Energy Services
+WRN	Western Copper and Gold
+WSP	WSP Global Inc
+WTE	Westshore Terminals Inve
+WXM	F A Morningstar Cda Mome
+WXM.A	F A Morningstar Cda Mome
+X	Tmx Group Limited
+XAL	Ishares Alternatives Com
+XAU	Goldmoney Inc
+XAW	Ishares Core MSCI All Cn
+XBB	Ishares Canadian Univers
+XBM	Ishares SP TSX Global BA
+XBZ	Ishares MSCI Brazil Inde
+XCB	Ishares Canadian Corpora
+XCD	Ishares SP Global Cons D
+XCG	Ishares Canadian Growth
+XCH	Ishares China Index ETF
+XCR	Ishares Conservative Cor
+XCS	Ishares SP TSX Smallcap
+XCT	Exactearth Ltd
+XCV	Ishares Canadian Value I
+XDC	Xtreme Drilling and Coil
+XDV	Ishares Canadian Select
+XEB	Ishares JP Morgan USD EM
+XEC	Ishares Core MSCI Emergi
+XEF	Ishares Core MSCI EAFE I
+XEG	Ishares SP TSX Capped En
+XEH	Ishares MSCI Europe IMI
+XEI	Ishares Core SP TSX Comp
+XEM	Ishares MSCI Emerging Ma
+XEN	Ishares Jantzi Social In
+XEU	Ishares MSCI Europe IMI
+XFA	Ishares Factorselect MSCI USA Idx CAD
+XFC	Ishares Factorselect MSCI C
+XFF	Ishares Factorselect MSCI EAFE
+XFH	Ishares Core MSCI EAFE I
+XFI	Ishares Factorselect MSCI EAFE Idx ETF
+XFN	Ishares SP TSX Capped Fi
+XFR	Ishares Floating Rate In
+XFS	Ishares Factorselect MSCI USA Idx ETF
+XGB	Ishares Canadian Govt Bo
+XGC	Ishares Global Comp. Por
+XGD	Ishares S&P/Tsx Global G
+XGI	Ishares SP Global Indust
+XGR	Ishares Growth Core Port
+XHB	Ishares CDN Hybrid Corp
+XHC	Ishares Global Healthcar
+XHD	Ishares US High Div Equi
+XHU	Ishares US High Div Equi
+XHY	Ishares US High Yield Bo
+XIC	Ishares Core SP TSX Capp
+XID	Ishares India Index ETF
+XIG	Ishares US Ig Corporate
+XIN	Ishares MSCI EAFE Index
+XIT	Ishares SP TSX Capped In
+XIU	Ishares SP TSX 60 Index
+XLB	Ishares Core CDN Long Te
+XMA	Ishares SP TSX Capped Ma
+XMC	Ishares SP US Midcap Ind
+XMD	Ishares SP TSX Completio
+XMF.A	M Split Corp Capital Sha
+XMF.PR.B	M Split Corp. Class I Pr
+XMF.PR.C	M Split Corp. Class II P
+XMH	Ishares SP US Midcap Ind
+XMI	Ishares MSCI EAFE Min Vo
+XML	Ishares Edge MSCI Mv EAFE ETF CAD Hgd
+XMM	Ishares MSCI Emerg Mkts
+XMS	Ishares Edge MSCI Mv USA ETF CAD Hgd
+XMU	Ishares MSCI USA Min Vol
+XMV	Ishares MSCI Canada Min
+XMW	Ishares MSCI All Country
+XMY	Ishares Edge MSCI Mv Glbl ETF CAD Hgd
+XPF	Ishares SP TSX Na Pref S
+XQB	Ishares Core Hi Quality
+XQB.A	Ishares Core Hi Quality
+XQQ	Ishares Nasdaq 100 Index
+XRB	Ishares CDN Real Return
+XRC	Exeter Resource Corporat
+XRE	Ishares SP TSX Capped Re
+XSB	Ishares Canadian Short T
+XSC	Ishares Conv Shr Trm Stra Fxd
+XSE	Ishares Cons Strat Fix I
+XSH	Ishares Core CDN ST Corp
+XSI	Ishares Short Term Strat
+XSP	Ishares Core SP 500 Idx
+XSQ	Ishares Core ST Hi Quali
+XSR	Sirius XM Canada Holding
+XST	Ishares SP TSX Capped Co
+XSU	Ishares US Small Cap Ind
+XTC	Exco Tech
+XTD	Tdb Split Corp. Class A
+XTD.PR.A	Tdb Split Corp. Priorit
+XTG	Xtra Gold Resources Corp
+XTR	Ishares Diversified Mont
+XUH	Ishares Core SP US Total
+XUS	Ishares Core SP 500 Inde
+XUT	Ishares SP TSX Capped Ut
+XUU	Ishares Core SP US Total
+XWD	Ishares MSCI World Index
+XXM	Fa Morningstar US Value
+XXM.A	Fa Morningstar US Value
+XXM.B	Fa Morningstr US Value I
+XXM.D	Fa Morningstr US Val Unh
+XYM.UN	Star Yield Managers Trust
+Y	Yellow Pages Limited
+Y.WT	Yellow Pages Limited Wts
+YCM	Commerce Split Corp Capi
+YCM.PR.A	Commerce Split Corp Clas
+YCM.PR.B	Commerce Split Corp Clas
+YGR	Yangarra Resources Ltd
+YMI	Yellowhead Mining Inc
+YP.UN	Yieldplus Income Fund
+YPG.DB	Yp Digital and Media Sol
+YRB.A	Yorbeau Res A J
+YRI	Yamana Gold Inc
+YXM	Fa Morningstar US Moment
+YXM.B	Fa Morningstar US Moment
+YXM.D	Fa Morningstr US Momntm
+ZAG	BMO Aggregate Bond Index
+ZAR	Zargon Oil and Gas Ltd.
+ZAR.DB	Zargon Oil and Gas Ltd 6
+ZAZ	Zazu Metals Corporation
+ZBK	BMO Equal Weight US Bank
+ZCH	BMO China Equity Index E
+ZCL	Zcl Composites
+ZCM	BMO Mid Corporate Bond I
+ZCN	BMO SP TSX Capped Comp I
+ZCS	BMO Short Corp Bond Inde
+ZDB	BMO Discount Bond Idx Et
+ZDH	BMO Intl Div CAD Hedge E
+ZDI	BMO International Divide
+ZDJ	BMO DJIA Hedged To CAD I
+ZDM	BMO MSCI EAFE Hedged To
+ZDV	BMO Canadian Dividend Et
+ZDY	BMO US Dividend ETF CAD
+ZDY.U	BMO US Dividend ETF USD
+ZEA	BMO MSCI EAFE Idx ETF
+ZEB	BMO SP TSX Equal Weight
+ZEF	BMO Emg Mkt Bond Hdgd To
+ZEL	BMO Equity Linked Corp B
+ZEM	BMO MSCI Emerging Market
+ZEO	BMO SP TSX Eql Weight Oi
+ZEQ	BMO MSCI EU Hq Hcad Idx
+ZFH	BMO Floating Rate High Y
+ZFL	BMO Long Fed Bond Index
+ZFM	BMO Mid Federal Bond Ind
+ZFS	BMO Short Federal Bond I
+ZGD	BMO SP TSX Eql Weight Gl
+ZGI	BMO Global Infrastructur
+ZGQ	BMO MSCI All Cntry Wrld
+ZHY	BMO High Yld US Corp Bnd
+ZIC	BMO Mid Term US Ig Corp
+ZIC.U	BMO Mid Term US Ig Corp
+ZID	BMO India Equity Index E
+ZIN	BMO SP TSX Equal Weight
+ZJG	BMO Junior Gold Index Et
+ZJN	BMO Junior Gas Index ETF
+ZJO	BMO Junior Oil Index ETF
+ZLB	BMO Low Volatility CAD E
+ZLC	BMO Long Corporate Bond
+ZLD	BMO Low Vol Intl Eqty Hed To CAD ETF
+ZLH	BMO Low Vol US Eqty Hed To CAD ETF
+ZLI	BMO Low Vol Intl Equity
+ZLU	BMO Low Volatility US Eq
+ZLU.U	BMO Low Volatility US Eq
+ZMI	BMO Monthly Income ETF
+ZMP	BMO Mid Provincial Bond
+ZMT	BMO Sptsx Eql Wgt Glb Me
+ZMU	BMO Mid Term US Ig Corp
+ZPL	BMO Long Provincial Bond
+ZPR	BMO SP TSX Laddered Pref
+ZPS	BMO Short Provincial Bon
+ZPW	BMO US Put Write ETF
+ZPW.U	BMO US Put Write ETF USD
+ZQQ	BMO Nasdaq 100 Hedged To
+ZRE	BMO Equal Weight Reits I
+ZRR	BMO Real Return Bond Ind
+ZSP	BMO SP 500 Index ETF
+ZSP.U	BMO SP 500 Index ETF USD
+ZST	BMO Ultra Short Term Bon
+ZSU	BMO ST US Ig Corp Bond H
+ZUB	BMO Eql Wgt US Bank Hdgd
+ZUD	BMO US Dividend Hedged T
+ZUE	BMO SP 500 Hedged CAD Id
+ZUH	BMO Eql Wgt US Hcare Hdg
+ZUQ	BMO MSCI USA High Qualit
+ZUT	BMO Equal Weight Utiliti
+ZWA	BMO Covered Call DJIA CA
+ZWB	BMO Covered Call Canadia
+ZWE	BMO Europe High Div CC C
+ZWH	BMO US High Dividend Cov
+ZWH.U	BMO US High Dividend Cov
+ZWU	BMO Covered Call Utiliti
+ZXM	F A Morningstar Intl Mom
+ZXM.A	F A Morningstar Intl Mom
+ZXM.B	F A Morningstar Intl Mom
+ZXM.D	F A Morningstar Intl Momentum I
+ZZZ	Sleep Country Canada Hol

@@ -40,8 +40,8 @@ def determine_yf_coverage(name,stock_list,cov_type): #Determine what % of stocks
 				%(name,round(sum(x is not None for x in featured_stocks_list)/len(featured_stocks_list),2),cov_type))
 	return
 
-def run_program():
-	screen=StockScreen.StockScreen('NASDAQ')
+def run_program(exchange):
+	screen=StockScreen.StockScreen(exchange)
 	screen.filter_universe()
 	ranked_df=screen.assign_ranks()
 	print(ranked_df)
@@ -49,7 +49,7 @@ def run_program():
 	return
 
 
-run_program()
+run_program('NYSE') #TSE, NASDAQ or NYSE
 
 ##add function to print interesting stats/info about the top ranked companys...include spaces in between prints i,e /n
 
