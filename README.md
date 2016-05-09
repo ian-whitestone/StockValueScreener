@@ -1,19 +1,19 @@
-## Synopsis
+## Synopsis & Motivation
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+The Stock Value Screener implements the principles and tests detailed in What Works on Wall Street 4th Ed. [http://www.whatworksonwallstreet.com/]. Data is scraped from the google finance screener. After the data is cleaned, various value factors are sorted and ranked by percentile. A normalized rank is created based on the sum of each rank and whether the data is available.
+
+Future work will involve incorporating additional data to implement more value factors (i.e. Enterprise Value, shareholder yield etc.)
 
 ## Code Example
 
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
-
-## Motivation
-
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+...To come...
 
 ## Tests
 
-Describe and show how to run the tests with code examples.
+...To come...
 
 ## Contributors
 
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
+Welcoming any contributors who want to implement different strategies or screens they have read about.
+
+Any data contributions would be greatly appreciated.
