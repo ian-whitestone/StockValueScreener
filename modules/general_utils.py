@@ -19,6 +19,18 @@ from scipy import stats
 def explore_list(list_name,num_iter): #Change so it selects random X entries then prints those, rather than first X
 	for entry,i in zip(list_name,range(num_iter)):
 		print (entry)
+	return
+
+def explore_dict(dict_name,num_iter):
+	i=1
+	for entry,value in dict_name.items():
+		if i<=num_iter:
+			print (value)
+		else:
+			break
+		i+=1
+	return
+
 
 def seaborn_plot(df,plot_type='pairplot',columns=False):
 	sns.set()
