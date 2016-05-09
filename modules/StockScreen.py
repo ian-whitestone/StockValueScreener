@@ -2,13 +2,15 @@ import general_utils as Ugen
 import pandas as pd
 import numpy as np
 import data_scraping as ds
+import math
 
 class StockScreen(): #Ian: tentative setup for class, may have to move functions out/in accordingly
 	def __init__(self,exchange):
 		self.exchange=exchange
+		self.value_factors=['PE','PriceSales','PriceToBook','EBITDAtoMcap']
 		self.filters={'MarketCap':1*10**9,'PE':0,'PriceSales':0} #greater than 1 billion
-		self.PE_filter=0 #must have earnings
 		self.ascending_rank= ['PE','PriceSales','PriceToBook']#value factors to be sorted and ranked
+		self.descending_rank=['EBITDAtoMcap']
 		self.stock_df=self.build_stock_universe()
 
 	def clean_df(self,x):
@@ -48,26 +50,34 @@ class StockScreen(): #Ian: tentative setup for class, may have to move functions
 		# print (type(df['PriceSales']),df['PriceSales'])
 		# print (type(df['MarketCap']),df['MarketCap'])
 		# print (type(df['QuoteLast']),df['QuoteLast'])
+
 		# df['EBITDA']=df['EBITDMargin']/df['PriceSales']*df['MarketCap']
 		df['EBITDAtoMcap']=df['EBITDMargin']/df['PriceSales']
 		return df
 
 	def filter_universe(self):
+		# df=self.stock_df[self.stock_df['PE']>0]
 		for factor,min_value in self.filters.items():
-			df=self.stock_df[self.stock_df[factor]>min_value
-		return df
+			self.stock_df=self.stock_df[self.stock_df[factor]>min_value]
+		return
 
-	def assign_ranks(self,df):
-		#add loop, initialize sorted variables in __init__
-		
+	def assign_ranks(self):
+		df=self.stock_df
 		for factor in self.ascending_rank:
 			df=df.sort_values(factor, ascending=True)
+			print (df)
 			df[factor+'_rank'] = 100-pd.qcut(df[factor], 100, labels=False)
+		for factor in self.descending_rank:
+			df=df.sort_values(factor, ascending=False)
+			df[factor+'_rank'] = 1+pd.qcut(df[factor], 100, labels=False)
 		
-		factor='EBITDAtoMcap'
-		df=df.sort_values(factor, ascending=False)
-		df[factor+'_rank'] = 1+pd.qcut(df[factor], 100, labels=False)
+		df=df.apply(self.sum_ranks,axis=1)
+		return df.sort_values('norm_rank',ascending=False)
 
+	def sum_ranks(self,df): #eventually account for missing data (i.e. missing/NA ranks)
+		df['num_ranks']=sum([1 for factor in self.value_factors if not math.isnan(df[factor+'_rank'])]) #count how many ranks it had non nan values for
+		df['total_rank']=sum([df[factor+'_rank'] for factor in self.value_factors])
+		df['norm_rank']=df['total_rank']/df['num_ranks']
 		return df
 
 

@@ -42,8 +42,8 @@ def determine_yf_coverage(name,stock_list,cov_type): #Determine what % of stocks
 
 def run_program():
 	screen=StockScreen.StockScreen('NASDAQ')
-	filtered_df=screen.filter_universe()
-	ranked_df=screen.assign_ranks(filtered_df)
+	screen.filter_universe()
+	ranked_df=screen.assign_ranks()
 	print(ranked_df)
 	print ("program executed")
 	return
@@ -88,6 +88,12 @@ run_program()
 
 
 ###TO DO 
-#1) Figure out which companies are missign data - account for this in ranking??
-#2) Figure out which companies are no longer listed/public
-#3) 
+#1) Enterprise value data
+#2) Shareholder yield data
+#3) Figure out which companies are no longer listed/public
+#4) Changing google finance urls.....
+
+
+#Long term - when is it a good idea to buy a stock?
+
+
