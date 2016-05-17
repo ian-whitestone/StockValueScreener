@@ -1,0 +1,36 @@
+First URL you had:
+https://www.google.com/finance?output=json&start=0&num=20&noIL=1&q=
+[currency%20%3D%3D%20%22CAD%22%20%26%20%28exchange%20%3D%3D%20%22TSE%22%29%20%26%20%28market_cap%20%3E%3D%200%29%20%26%20%28market_cap%20%3C%3D%20500170000000%29%20%26%20%28pe_ratio%20%3E%3D%200%29%20%26%20%28pe_ratio%20%3C%3D%207735%29%20%26%20%28dividend_yield%20%3E%3D%200%29%20%26%20%28dividend_yield%20%3C%3D%2051.27%29%20%26%20%28forward_pe_1year%20%3E%3D%200%29%20%26%20%28forward_pe_1year%20%3C%3D%209.74%29%20%26%20%28beta%20%3E%3D%20-3.34%29%20%26%20%28beta%20%3C%3D%204.41%29%20%26%20%28ebitd_margin_trailing_12months%20%3E%3D%20-564206%29%20%26%20%28ebitd_margin_trailing_12months%20%3C%3D%209236%29%20%26%20%28price_to_book%20%3E%3D%200%29%20%26%20%28price_to_book%20%3C%3D%2022414%29%20%26%20%28price_to_sales_trailing_12months%20%3E%3D%200%29%20%26%20%28price_to_sales_trailing_12months%20%3C%3D%2050160%29%20%26%20%28volume%20%3E%3D%200%29%20%26%20%28volume%20%3C%3D%2030030000%29]&restype=company&ei=NSYqV7GEI9adjAGw14bIBA"
+	
+
+Second URL you had:
+
+https://www.google.com/finance?start=0&num=20&q=%5Bcurrency%20%3D%3D%20%22CAD"%22%20%26%20(exchange%20%3D%3D%20%22TSE%22)%20%26%20(market_cap%20%3E%3D%200)%20%26%20(market_cap%20%3C%3D%206750000000000)%20%26%20(pe_ratio%20%3E%3D%200)%20%26%20(pe_ratio%20%3C%3D%2074751)%20%26%20(dividend_yield%20%3E%3D%200)%20%26%20(dividend_yield%20%3C%3D%2020.88)%20%26%20(price_to_book%20%3E%3D%200)%20%26%20(price_to_book%20%3C%3D%2051282)%20%26%20(price_to_sales_trailing_12months%20%3E%3D%200)%20%26%20(price_to_sales_trailing_12months%20%3C%3D%20473417)%20%26%20(last_price%20%3E%3D%200)%20%26%20(last_price%20%3C%3D%2014060)%20%26%20(average_volume%20%3E%3D%200)%20%26%20(average_volume%20%3C%3D%2088410000)%20%26%20(ebitd_margin_trailing_12months%20%3E%3D%20-1740000)%20%26%20(ebitd_margin_trailing_12months%20%3C%3D%20125)%20%26%20(beta%20%3E%3D%20-3.82)%20%26%20(beta%20%3C%3D%209.38)%5D&restype=company&output=json&noIL=1&ei=BWsuV4H5K8HfjAGt7amIDA
+
+
+NEW (Canada/TSE/CAD)
+
+https://www.google.ca/finance?output=json&start=0&num=20&noIL=1&q=[currency%20%3D%3D%20%22CAD%22%20%26%20%28exchange%20%3D%3D%20%22TSE%22%29%20%26%20%28market_cap%20%3E%3D%200%29%20%26%20%28market_cap%20%3C%3D%206750000000000%29%20%26%20%28pe_ratio%20%3E%3D%200%29%20%26%20%28pe_ratio%20%3C%3D%2074001%29%20%26%20%28dividend_yield%20%3E%3D%200%29%20%26%20%28dividend_yield%20%3C%3D%2020.7%29%20%26%20%28price_change_52week%20%3E%3D%20-101%29%20%26%20%28price_change_52week%20%3C%3D%201901%29]&restype=company&ei=Wbc3V9DWEs-M2AaV1pXoBQ
+
+NEW (United States/NYSE/USD)
+
+https://www.google.ca/finance?output=json&start=0&num=20&noIL=1&q=[currency%20%3D%3D%20%22USD%22%20%26%20%28exchange%20%3D%3D%20%22NYSE%22%29%20%26%20%28market_cap%20%3E%3D%200%29%20%26%20%28market_cap%20%3C%3D%20371160000000%29%20%26%20%28pe_ratio%20%3E%3D%200%29%20%26%20%28pe_ratio%20%3C%3D%2089143%29%20%26%20%28dividend_yield%20%3E%3D%200%29%20%26%20%28dividend_yield%20%3C%3D%2067.69%29%20%26%20%28price_change_52week%20%3E%3D%20-99.93%29%20%26%20%28price_change_52week%20%3C%3D%20259%29]&restype=company&ei=Wbc3V9DWEs-M2AaV1pXoBQ
+
+
+FINAL
+
+https://www.google.ca/finance?output=json&start=0&num=20&noIL=1&q=[currency%20%3D%3D%20%22USD%22%20%26%20%28exchange%20%3D%3D%20%22NYSE
+
+%22%29%20%26%20%28market_cap%20%3E%3D%200%29%20%26%20%28market_cap%20%3C%3D%2010000000000000%29%20%26%20%28pe_ratio%20%3E%3D%200%29%20%26%20%28pe_ratio%20%3C%3D%2089143%29%20%26%20%28dividend_yield%20%3E%3D%200%29%20%26%20%28dividend_yield%20%3C%3D%2010000%29%20%26%20%28price_to_book%20%3E%3D%200%29%20%26%20%28price_to_book%20%3C%3D%20100000000%29%20%26%20%28price_to_sales_trailing_12months%20%3E%3D%200%29%20%26%20%28price_to_sales_trailing_12months%20%3C%3D%201000000%29%20%26%20%28ebitd_margin_trailing_12months%20%3E%3D%20-1000000%29%20%26%20%28ebitd_margin_trailing_12months%20%3C%3D%201000000%29%20%26%20%28operating_margin_trailing_12months%20%3E%3D%20-1000000%29%20%26%20%28operating_margin_trailing_12months%20%3C%3D%201000000%29%20%26%20%28net_profit_margin_percent_trailing_12months%20%3E%3D%20-1000000%29%20%26%20%28net_profit_margin_percent_trailing_12months%20%3C%3D%201000000%29%20%26%20%28gross_margin_trailing_12months%20%3E%3D%20-1000000%29%20%26%20%28gross_margin_trailing_12months%20%3C%3D%201000000%29%20%26%20%28volume%20%3E%3D%200%29%20%26%20%28volume%20%3C%3D%20100000000000%29%20%26%20%28beta%20%3E%3D%20-10%29%20%26%20%28beta%20%3C%3D%2010%29]&restype=company&ei=
+
+Wbc3V9DWEs-M2AaV1pXoBQ
+
+
+
+D%20393%29%20%26%20%28operating_margin_trailing_12months%20%3E%3D%20-672052%29%20%26%20%28operating_margin_trailing_12months%20%3C%3D%20384%29%20%26%20%28net_profit_margin_percent_trailing_12months%20%3E%3D%20-888192%29%20%26%20%28net_profit_margin_percent_trailing_12months%20%3C%3D%205470%29%20%26%20%28gross_margin_trailing_12months%20%3E%3D%20-19218%29%20%26%20%28gross_margin_trailing_12months%20%3C%3D%20114%29%20%26%20%28volume%20%3E%3D%200%29%20%26%20%28volume%20%3C%3D%201170000%29%20%26%20%28beta%20%3E%3D%20-0.94%29%20%26%20%28beta%20%3C%3D%204.77%29%20%26%20%28last_price%20%3E%3D%200%29%20%26%20%28last_price%20%3C%3D%20100000%29]&restype=company&ei=Wbc3V9DWEs-M2AaV1pXoBQ
+
+
+
+
+
+

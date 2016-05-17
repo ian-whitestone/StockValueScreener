@@ -7,6 +7,7 @@ import json
 import io
 import requests
 import ast
+import sys
 
 
 def http_get_old(url):
@@ -44,16 +45,17 @@ def http_get_old(url):
     return data
 
 def http_get(url):
-	try:
-	    r = requests.get(url)
-	except requests.exceptions.Timeout:
+    headers={'User-Agent' : "Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.16 Safari/534.24"}
+    try:
+        r = requests.get(url,headers=headers)
+    except requests.exceptions.Timeout:
 	    pass
 	    # Maybe set up for a retry, or continue in a retry loop
-	except requests.exceptions.TooManyRedirects:
+    except requests.exceptions.TooManyRedirects:
 	    pass
 	    # Tell the user their URL was bad and try a different one
-	except requests.exceptions.RequestException as e:
+    except requests.exceptions.RequestException as e:
 	    # catastrophic error. bail.
 	    print (e)
 	    sys.exit(1)
-	return r.text
+    return r.text
