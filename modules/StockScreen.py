@@ -58,6 +58,7 @@ class StockScreen(): #Ian: tentative setup for class, may have to move functions
 		df['EBITDAtoEV']=df['EBITDMargin']/100/df['PriceSales']*df['MarketCap']/10000#df['EV'] 
 		df['PriceToCashFlow']=df['PriceSales']/(df['OperatingMargin']/100)
 		hist_price_3,hist_price_6=self.calc_price_momemtum(df.name)
+		# print (hist_price_3,hist_price_6)
 		if hist_price_3 and hist_price_6:
 			df['6monthmom']=(df['QuoteLast']-hist_price_6)/hist_price_6
 			df['3monthmom']=(df['QuoteLast']-hist_price_3)/hist_price_3
@@ -69,12 +70,12 @@ class StockScreen(): #Ian: tentative setup for class, may have to move functions
 	def calc_price_momemtum(self,ticker):
 		hist_date_3=datetime.date.today() - datetime.timedelta(3*365/12)
 		hist_date_6=datetime.date.today() - datetime.timedelta(6*365/12)
-		if self.exchange=='TSE':
-			ticker=ticker+'.TO'
+		str_date_3=hist_date_3.strftime("%B")[0:3]+' '+str(hist_date_3.day)+', '+str(hist_date_3.year)
+		str_date_6=hist_date_6.strftime("%B")[0:3]+' '+str(hist_date_6.day)+', '+str(hist_date_6.year)
 		try:
-			stock=yf.Share(ticker)
-			hist_price_3=float(stock.get_historical(hist_date_3.isoformat(),(hist_date_3+datetime.timedelta(1)).isoformat())[0]['Close'])
-			hist_price_6=float(stock.get_historical(hist_date_6.isoformat(),(hist_date_6+datetime.timedelta(1)).isoformat())[0]['Close'])
+			hist_price_dict=ds.scrape_gf_histprices(self.exchange,ticker)
+			hist_price_3=float(hist_price_dict[str_date_3])
+			hist_price_6=float(hist_price_dict[str_date_6])
 		except:
 			return None,None
 		return hist_price_3,hist_price_6
@@ -109,7 +110,4 @@ class StockScreen(): #Ian: tentative setup for class, may have to move functions
 		df['total_rank']=sum([df[factor+'_rank'] for factor in self.value_factors])
 		df['norm_rank']=df['total_rank']/df['num_ranks']
 		return df
-
-
-
 

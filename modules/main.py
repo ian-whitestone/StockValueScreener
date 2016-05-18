@@ -53,9 +53,10 @@ def determine_yf_coverage(name,stock_list,cov_type): #Determine what % of stocks
 def run_program(exchange):
 	screen=StockScreen.StockScreen(exchange)
 	screen.filter_universe()
+	# print (screen.stock_df)
 	ranked_df=screen.assign_ranks()
 	top_50=list(ranked_df.head(n=50).index)
-	# print (ranked_df)
+	print (ranked_df)
 	print (top_50)				##
 	print (ranked_df.ix['AD']) #print key stats for these companies (and latest 5 google news article titles??)
 	print ("program executed")
@@ -76,8 +77,9 @@ def run_program(exchange):
 # cd ~/Documents/Programming/Python/ValueScreener/modules
 #python -c "import main; main.run_program('TSE')" #TSE, NASDAQ or NYSE
 
+# dicts=ds.scrape_gf_histprices('TSE','AD')
 
-
+# print (dicts)
 ##add function to print interesting stats/info about the top ranked companys...include spaces in between prints i,e /n
 
 
